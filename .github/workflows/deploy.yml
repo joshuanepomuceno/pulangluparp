@@ -1,4 +1,10 @@
-name: Deploy to cPanel
+name: Deploy to cPanel (FTP)
+
+# GoDaddy's cPanel Git module requires shell access to be reachable via its
+# external API, which this account doesn't have — see .cpanel.yml for the
+# manual "Update from Remote" / "Deploy HEAD Commit" fallback in the cPanel
+# UI. This workflow deploys straight over FTP/FTPS instead, which works
+# regardless of that restriction.
 
 on:
   push:
@@ -8,28 +14,33 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Pull latest commit into the cPanel-hosted clone
-        run: |
-          response=$(curl -s -w "\n%{http_code}" \
-            -H "Authorization: cpanel ${{ secrets.CPANEL_USERNAME }}:${{ secrets.CPANEL_API_TOKEN }}" \
-            "https://${{ secrets.CPANEL_HOST }}:2083/execute/Git/update?repository_root=${{ secrets.CPANEL_REPO_PATH }}")
-          http_code=$(echo "$response" | tail -n1)
-          body=$(echo "$response" | sed '$d')
-          echo "$body"
-          if [ "$http_code" != "200" ] || ! echo "$body" | grep -q '"status":1'; then
-            echo "::error::cPanel Git/update failed (HTTP $http_code)"
-            exit 1
-          fi
+      - uses: actions/checkout@v4
 
-      - name: Deploy HEAD commit (runs .cpanel.yml on the server)
-        run: |
-          response=$(curl -s -w "\n%{http_code}" \
-            -H "Authorization: cpanel ${{ secrets.CPANEL_USERNAME }}:${{ secrets.CPANEL_API_TOKEN }}" \
-            "https://${{ secrets.CPANEL_HOST }}:2083/execute/Git/deploy?repository_root=${{ secrets.CPANEL_REPO_PATH }}")
-          http_code=$(echo "$response" | tail -n1)
-          body=$(echo "$response" | sed '$d')
-          echo "$body"
-          if [ "$http_code" != "200" ] || ! echo "$body" | grep -q '"status":1'; then
-            echo "::error::cPanel Git/deploy failed (HTTP $http_code)"
-            exit 1
-          fi
+      - name: Deploy wp-content/themes
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./wp-content/themes/
+          server-dir: ${{ secrets.FTP_REMOTE_ROOT }}/wp-content/themes/
+          exclude: |
+            **/twentytwentythree/**
+            **/twentytwentyfour/**
+            **/twentytwentyfive/**
+          state-name: .ftp-deploy-sync-state-themes.json
+
+      - name: Deploy wp-content/plugins
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./wp-content/plugins/
+          server-dir: ${{ secrets.FTP_REMOTE_ROOT }}/wp-content/plugins/
+          exclude: |
+            **/akismet/**
+            **/hello.php
+          state-name: .ftp-deploy-sync-state-plugins.json
