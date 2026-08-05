@@ -222,7 +222,8 @@ $plrp_disco = esc_url( get_theme_mod( 'plrp_discord_url', '#' ) );
   <div class="parallax-band-bg" data-parallax="0.22" data-parallax-scale="1.3" style="background-image:url('<?php echo esc_url( $plrp_img . '/rdr-parallax-2.jpg' ); ?>')"></div>
   <div class="parallax-band-inner">
     <span class="parallax-quote-mark" aria-hidden="true">&ldquo;</span>
-    <p class="parallax-quote">Build a life as a lawman, rancher, outlaw, or ordinary settler &mdash; in a world defined by consequence, opportunity, and human connection.</p>
+    <p class="parallax-quote">Pulang Lupa RP is a Serious Roleplay RedM server inspired by Philippine history, culture, and folklore, set in the fictional nation of Pulang Lupa in 1890. As the nation stands at the crossroads of political change, economic ambition, and social unrest, every citizen has the opportunity to shape its future through meaningful roleplay and immersive storytelling.
+</p>
     <span class="parallax-quote-by">Your legend awaits</span>
   </div>
 </section>
