@@ -35,5 +35,6 @@
 # Always exclude these even inside tracked folders
 **/.DS_Store
 **/Thumbs.db
+**/desktop.ini
 **/node_modules/
 *.log
