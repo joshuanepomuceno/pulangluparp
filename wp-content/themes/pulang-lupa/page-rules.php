@@ -752,6 +752,22 @@ $plrp_chapters = [
                     ['note', 'Always be mindful of the experience of those around you. Audio should complement a scene — not dominate it.'],
                 ],
             ],
+            [
+                'id' => 'streamer-etiquette', 'num' => 38, 'title' => 'Streamer Etiquette',
+                'blocks' => [
+                    ['p', 'Pulang Lupa RP welcomes content creators and encourages players to share their experiences with the community. Streamers are expected to uphold the same standards of professionalism, immersion, and sportsmanship as every other player.'],
+                    ['list', 'Players who choose to stream should:', 'must', [
+                        'Avoid using live chat or viewer interaction to influence in-character decisions.',
+                        'Refrain from encouraging harassment, witch hunts, or targeted negativity toward players, staff, or the community.',
+                        'Respect ongoing roleplay and avoid using their platform to intentionally disrupt or undermine another player\'s experience.',
+                        'Avoid using their platform for metagaming.',
+                        'Understand that streaming does not exempt them from any Server Rules or administrative action.',
+                    ]],
+                    ['note', 'Viewers should never be used as a source of in-character information. Any attempt to gain an advantage through a live broadcast may be treated as Metagaming or Stream Sniping where applicable.'],
+                    ['p', 'Players who do not stream are expected to respect those who do. Stream sniping, harassment, or intentionally disrupting another player\'s broadcast is strictly prohibited.'],
+                    ['p', 'Administration may periodically review publicly available streams and recorded broadcasts to help assess player behavior, investigate reports, verify potential rule violations, or ensure that server policies are being followed. While streamed footage may be considered during investigations, it does not automatically determine the outcome of a case. All reports and evidence are evaluated fairly and in their proper context.'],
+                ],
+            ],
         ],
         'violations' => 'Violations of the Miscellaneous Guidelines may result in warnings, temporary suspensions, permanent bans, or other administrative action depending on the severity, intent, and repetition of the violation.',
     ],
@@ -765,7 +781,7 @@ $plrp_chapters = [
         'desc'     => 'How to get help, report violations, and appeal decisions.',
         'rules'    => [
             [
-                'id' => 'ticketing', 'num' => 38, 'title' => 'Ticketing',
+                'id' => 'ticketing', 'num' => 39, 'title' => 'Ticketing',
                 'blocks' => [
                     ['p', 'The ticket system exists to provide support and resolve server-related matters efficiently.'],
                     ['list', 'When creating a ticket:', 'must', [
@@ -780,7 +796,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'reporting-violations', 'num' => 39, 'title' => 'Reporting Rule Violations',
+                'id' => 'reporting-violations', 'num' => 40, 'title' => 'Reporting Rule Violations',
                 'blocks' => [
                     ['p', 'Players are encouraged to report rule violations that negatively affect the server.'],
                     ['p', 'Reports should be truthful, supported by evidence where possible, and submitted in good faith. Reports made to harass, retaliate against, or inconvenience another player are prohibited.'],
@@ -788,7 +804,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'conduct-towards-staff', 'num' => 40, 'title' => 'Conduct Towards Staff',
+                'id' => 'conduct-towards-staff', 'num' => 41, 'title' => 'Conduct Towards Staff',
                 'blocks' => [
                     ['p', 'Treat all staff members with respect and professionalism.'],
                     ['p', 'Players may ask questions, seek clarification, or respectfully disagree with a decision through the appropriate channels. Harassment, insults, threats, or attempts to pressure staff are not tolerated.'],
@@ -796,7 +812,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'appeals', 'num' => 41, 'title' => 'Appeals',
+                'id' => 'appeals', 'num' => 42, 'title' => 'Appeals',
                 'blocks' => [
                     ['p', 'If you believe an administrative decision was made in error, you may submit an appeal through the designated process.'],
                     ['p', 'Appeals should remain respectful, include any relevant information, and explain why the decision should be reviewed. Decisions made after a completed appeal are considered final unless reopened by Server Management.'],
