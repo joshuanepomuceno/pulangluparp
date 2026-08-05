@@ -1,0 +1,11563 @@
+[
+ {
+  "name": "Inihaw na Karne",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "inihaw_na_karne",
+    "label": "inihaw_na_karne",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Inihaw na Karneng Ibon",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "birdmeat",
+    "label": "Hilaw na Karne ng Ibon",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "inihawnakarnengibon",
+    "label": "inihawnakarnengibon",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Inihaw na Isda",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "fishmeat",
+    "label": "Hilaw na Karne ng Isda",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "inihawnaisda",
+    "label": "inihawnaisda",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Chopseuy",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "carrots",
+    "label": "Karots",
+    "count": 3
+   },
+   {
+    "name": "cabbage",
+    "label": "Repolyo",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 3
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "birdmeat",
+    "label": "Hilaw na Karneng Ibon",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "chopseuy",
+    "label": "chopseuy",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Nilagang Baka",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "sliced_meat",
+    "label": "Hiniwang Karne",
+    "count": 3
+   },
+   {
+    "name": "cabbage",
+    "label": "Repolyo",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "corn",
+    "label": "Mais",
+    "count": 3
+   },
+   {
+    "name": "potato",
+    "label": "Patatas",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "nilagang_karne",
+    "label": "nilagang_karne",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Eskabetseng Isda",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "fishmeat",
+    "label": "Karne ng Isda",
+    "count": 3
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 3
+   },
+   {
+    "name": "tomato",
+    "label": "Kamatis",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 3
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "escabetcheng_isda",
+    "label": "escabetcheng_isda",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Ginataang Isda",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "fishmeat",
+    "label": "Karne ng Isda",
+    "count": 3
+   },
+   {
+    "name": "coconut",
+    "label": "Buko",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "chili",
+    "label": "Sili",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "ginataang_isda",
+    "label": "ginataang_isda",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Boiled Egg",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "boiledegg",
+    "label": "boiledegg",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Pancit Canton na may Itlog",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "dough",
+    "label": "Dough",
+    "count": 3
+   },
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 3
+   },
+   {
+    "name": "cabbage",
+    "label": "Repolyo",
+    "count": 3
+   },
+   {
+    "name": "carrots",
+    "label": "Karots",
+    "count": 3
+   },
+   {
+    "name": "chili",
+    "label": "Sili",
+    "count": 3
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 2
+   },
+   {
+    "name": "toyo",
+    "label": "Toyo",
+    "count": 3
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "pancitcanton",
+    "label": "pancitcanton",
+    "count": 2
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Adobo",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 3
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 2
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 2
+   },
+   {
+    "name": "chili",
+    "label": "Sili",
+    "count": 2
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "toyo",
+    "label": "Toyo",
+    "count": 1
+   },
+   {
+    "name": "suka",
+    "label": "Suka",
+    "count": 1
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "adobo",
+    "label": "adobo",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Tapsilog",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "sliced_meat",
+    "label": "Hiniwang Karne",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 2
+   },
+   {
+    "name": "toyo",
+    "label": "Toyo",
+    "count": 1
+   },
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 2
+   },
+   {
+    "name": "kanin",
+    "label": "Kanin",
+    "count": 1
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tapsilog",
+    "label": "tapsilog",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Arrozcaldo",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "kanin",
+    "label": "Kanin",
+    "count": 2
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "birdmeat",
+    "label": "Karne ng Ibon",
+    "count": 2
+   },
+   {
+    "name": "boiledegg",
+    "label": "Boiled Egg",
+    "count": 1
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "arroz_caldo",
+    "label": "arroz_caldo",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Lumpiang Shanghai",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "dough",
+    "label": "Dough",
+    "count": 2
+   },
+   {
+    "name": "giniling_na_karne",
+    "label": "Giniling na Karne",
+    "count": 5
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 2
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 2
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 2
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "lumpiang_shanghai",
+    "label": "lumpiang_shanghai",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Spaghetti Meatball",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "giniling_na_karne",
+    "label": "Giniling na Karne",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 2
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 2
+   },
+   {
+    "name": "tomato",
+    "label": "Kamatis",
+    "count": 2
+   },
+   {
+    "name": "dough",
+    "label": "Dough",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 2
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "spaghetti_meatball",
+    "label": "spaghetti_meatball",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Lasagna",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 2
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 2
+   },
+   {
+    "name": "tomato",
+    "label": "Kamatis",
+    "count": 2
+   },
+   {
+    "name": "dough",
+    "label": "Dough",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 2
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "lasagna",
+    "label": "lasagna",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Seafood Platter",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "fishmeat",
+    "label": "Karne ng Isda",
+    "count": 3
+   },
+   {
+    "name": "tomato",
+    "label": "Kamatis",
+    "count": 2
+   },
+   {
+    "name": "carrots",
+    "label": "Karots",
+    "count": 2
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 2
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "seafood_platter",
+    "label": "seafood_platter",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Alligator Stew",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "alligator_meat",
+    "label": "Karneng Buwaya",
+    "count": 3
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 2
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 2
+   },
+   {
+    "name": "chili",
+    "label": "Sili",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 1
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "alligator_stew",
+    "label": "alligator_stew",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Paksiw",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "fishmeat",
+    "label": "Karne ng Isda",
+    "count": 5
+   },
+   {
+    "name": "suka",
+    "label": "Suka",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 2
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 2
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "paksiw",
+    "label": "paksiw",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Tinolang Manok",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "birdmeat",
+    "label": "Karne ng Ibon",
+    "count": 5
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 3
+   },
+   {
+    "name": "chili",
+    "label": "Sili",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinolang_manok",
+    "label": "tinolang_manok",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Menudo",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 5
+   },
+   {
+    "name": "potato",
+    "label": "Patatas",
+    "count": 3
+   },
+   {
+    "name": "carrots",
+    "label": "Karots",
+    "count": 3
+   },
+   {
+    "name": "tomato",
+    "label": "Kamatis",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 3
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "menudo",
+    "label": "menudo",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Pork Steak",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 5
+   },
+   {
+    "name": "toyo",
+    "label": "Toyo",
+    "count": 3
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "pork_steak",
+    "label": "pork_steak",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Lechon",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "Fat",
+    "label": "Taba",
+    "count": 5
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 3
+   },
+   {
+    "name": "chili",
+    "label": "Sili",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 1
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "lechon",
+    "label": "lechon",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Chicharong Bulaklak",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "Fat",
+    "label": "Taba",
+    "count": 2
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 2
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 2
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "chicharong_bulaklak",
+    "label": "chicharong_bulaklak",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Bulalo",
+  "category": "food",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 5
+   },
+   {
+    "name": "corn",
+    "label": "Mais",
+    "count": 3
+   },
+   {
+    "name": "cabbage",
+    "label": "Repolyo",
+    "count": 3
+   },
+   {
+    "name": "potato",
+    "label": "Patatas",
+    "count": 3
+   },
+   {
+    "name": "onion",
+    "label": "Sibuyas",
+    "count": 3
+   },
+   {
+    "name": "garlic",
+    "label": "Bawang",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 3
+   },
+   {
+    "name": "pepper",
+    "label": "Paminta",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 3
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "bulalo",
+    "label": "bulalo",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Inuming Tubig",
+  "category": "drinks",
+  "ingredients": [
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na tubig",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "water",
+    "label": "water",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Lemon Tea",
+  "category": "drinks",
+  "ingredients": [
+   {
+    "name": "lemon",
+    "label": "Lemon",
+    "count": 5
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 3
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "lemon_tea",
+    "label": "lemon_tea",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Coffee",
+  "category": "drinks",
+  "ingredients": [
+   {
+    "name": "coffeebeans",
+    "label": "Coffee Beans",
+    "count": 5
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 3
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "coffee",
+    "label": "coffee",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Buko Juice",
+  "category": "drinks",
+  "ingredients": [
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 3
+   },
+   {
+    "name": "coconut",
+    "label": "Buko",
+    "count": 5
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 2
+   },
+   {
+    "name": "ice",
+    "label": "Yelo",
+    "count": 5
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "buko_juice",
+    "label": "buko_juice",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Honey Berry Water",
+  "category": "drinks",
+  "ingredients": [
+   {
+    "name": "ice",
+    "label": "Yelo",
+    "count": 5
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "Black_Berry",
+    "label": "Black Berry",
+    "count": 5
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "honeyberry",
+    "label": "honeyberry",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Ice Choco",
+  "category": "drinks",
+  "ingredients": [
+   {
+    "name": "cocoa",
+    "label": "Cocoa",
+    "count": 5
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 3
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 3
+   },
+   {
+    "name": "ice",
+    "label": "Yelo",
+    "count": 5
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "ice_choco",
+    "label": "ice_choco",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Berry Water",
+  "category": "drinks",
+  "ingredients": [
+   {
+    "name": "grapes",
+    "label": "Ubas",
+    "count": 5
+   },
+   {
+    "name": "strawberry",
+    "label": "Strawberry",
+    "count": 5
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "consumable_raspberrywater",
+    "label": "consumable_raspberrywater",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Banana Shake",
+  "category": "drinks",
+  "ingredients": [
+   {
+    "name": "banana",
+    "label": "Saging",
+    "count": 5
+   },
+   {
+    "name": "ice",
+    "label": "Yelo",
+    "count": 5
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 1
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 2
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "bananashake",
+    "label": "bananashake",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Buko Salad",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "grapes",
+    "label": "Ubas",
+    "count": 3
+   },
+   {
+    "name": "apple",
+    "label": "Mansanas",
+    "count": 3
+   },
+   {
+    "name": "coconut",
+    "label": "Buko",
+    "count": 3
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 1
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "bukosalad",
+    "label": "bukosalad",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Butter Egg Latte",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 3
+   },
+   {
+    "name": "butter",
+    "label": "Butter",
+    "count": 2
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "butteregg",
+    "label": "butteregg",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Mais Con Yelo",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "corn",
+    "label": "Mais",
+    "count": 3
+   },
+   {
+    "name": "ice",
+    "label": "Yelo",
+    "count": 5
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 3
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "maisconyelo",
+    "label": "maisconyelo",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Pancake",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "wheat",
+    "label": "Trigo",
+    "count": 5
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 3
+   },
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 3
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 2
+   },
+   {
+    "name": "butter",
+    "label": "Butter",
+    "count": 1
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "pancake",
+    "label": "pancake",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Lecheflan",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 5
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 3
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 4
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 1
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "lecheflan",
+    "label": "lecheflan",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Buko Pie",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "coconut",
+    "label": "Buko",
+    "count": 5
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 3
+   },
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 5
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "dough",
+    "label": "Dough",
+    "count": 2
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "bukopie",
+    "label": "bukopie",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Caramel Candy",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 1
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 1
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "caramel_candy",
+    "label": "caramel_candy",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Maruya",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "banana",
+    "label": "Saging",
+    "count": 6
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 3
+   },
+   {
+    "name": "dough",
+    "label": "Dough",
+    "count": 2
+   },
+   {
+    "name": "pinggan",
+    "label": "Pinggan",
+    "count": 1
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "maruya",
+    "label": "maruya",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Banana Q",
+  "category": "dessert",
+  "ingredients": [
+   {
+    "name": "banana",
+    "label": "Saging",
+    "count": 3
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 2
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "banana_q",
+    "label": "banana_q",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Butter",
+  "category": "rekado",
+  "ingredients": [
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 3
+   },
+   {
+    "name": "milk",
+    "label": "Gatas",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "butter",
+    "label": "butter",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dough",
+  "category": "rekado",
+  "ingredients": [
+   {
+    "name": "wheat",
+    "label": "Trigo",
+    "count": 3
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "eggs",
+    "label": "Itlog",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "dough",
+    "label": "dough",
+    "count": 5
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Toyo",
+  "category": "rekado",
+  "ingredients": [
+   {
+    "name": "soybean",
+    "label": "Soybean",
+    "count": 15
+   },
+   {
+    "name": "wheat",
+    "label": "Trigo",
+    "count": 15
+   },
+   {
+    "name": "salt",
+    "label": "Asin",
+    "count": 15
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 15
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "toyo",
+    "label": "toyo",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Suka",
+  "category": "rekado",
+  "ingredients": [
+   {
+    "name": "apple",
+    "label": "Mansanas",
+    "count": 15
+   },
+   {
+    "name": "wheat",
+    "label": "Trigo",
+    "count": 15
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 15
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 15
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "suka",
+    "label": "suka",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Kanin",
+  "category": "rekado",
+  "ingredients": [
+   {
+    "name": "wheat",
+    "label": "Trigo",
+    "count": 15
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 15
+   },
+   {
+    "name": "mangkok",
+    "label": "Mangkok",
+    "count": 10
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "kanin",
+    "label": "kanin",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Campfire",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "rock",
+    "label": "Bato",
+    "count": 10
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 4
+   }
+  ],
+  "reward": [
+   {
+    "name": "campfire",
+    "label": "campfire",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Goma",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 4
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 4
+   },
+   {
+    "name": "pulp",
+    "label": "Pulp",
+    "count": 4
+   }
+  ],
+  "reward": [
+   {
+    "name": "rubber",
+    "label": "rubber",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Rope",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 4
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 4
+   }
+  ],
+  "reward": [
+   {
+    "name": "rope",
+    "label": "rope",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Barnis",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 3
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "varnish",
+    "label": "varnish",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Resin",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 3
+   },
+   {
+    "name": "pulp",
+    "label": "Pulp",
+    "count": 2
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "resin",
+    "label": "resin",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Liha",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "rock",
+    "label": "Bato",
+    "count": 3
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 2
+   },
+   {
+    "name": "copper",
+    "label": "Tanso",
+    "count": 2
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "sandpaper",
+    "label": "sandpaper",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Hibla",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 3
+   },
+   {
+    "name": "pulp",
+    "label": "Pulp",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "fibers",
+    "label": "fibers",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Cigar",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "Indian_Tobbaco",
+    "label": "Indian Tobacco",
+    "count": 3
+   },
+   {
+    "name": "rollingpaper",
+    "label": "Rolling Paper",
+    "count": 3
+   },
+   {
+    "name": "leaf",
+    "label": "Dahon",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "cigar",
+    "label": "cigar",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Sigarilyo",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "Indian_Tobbaco",
+    "label": "Indian Tobacco",
+    "count": 2
+   },
+   {
+    "name": "rollingpaper",
+    "label": "Rolling Paper",
+    "count": 2
+   },
+   {
+    "name": "leaf",
+    "label": "Dahon",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "cigarette",
+    "label": "cigarette",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Fertilizer",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "manure",
+    "label": "Manure",
+    "count": 10
+   },
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming Tubig",
+    "count": 10
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 3
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "fertilizer",
+    "label": "fertilizer",
+    "count": 5
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "YEAST",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "wheat",
+    "label": "Wheat",
+    "count": 3
+   },
+   {
+    "name": "sugar",
+    "label": "Sugar",
+    "count": 2
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na tubig",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "yeast",
+    "label": "yeast",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Burned Kelp Ash",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "kelp",
+    "label": "Kelp",
+    "count": 3
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "burned_kelp_ash",
+    "label": "burned_kelp_ash",
+    "count": 3
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Soda Ash",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "burned_kelp_ash",
+    "label": "Burned Kelp Ash",
+    "count": 3
+   },
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming tubig",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "soda_ash",
+    "label": "soda_ash",
+    "count": 2
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Sand",
+  "category": "items",
+  "ingredients": [
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 5
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "sand",
+    "label": "sand",
+    "count": 3
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Mantika",
+  "category": "matadero1",
+  "ingredients": [
+   {
+    "name": "Fat",
+    "label": "Taba",
+    "count": 2
+   },
+   {
+    "name": "coconut",
+    "label": "Buko",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "mantika",
+    "label": "mantika",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Hiniwang Karne",
+  "category": "matadero1",
+  "ingredients": [
+   {
+    "name": "meat",
+    "label": "Hilaw na Karne",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "sliced_meat",
+    "label": "sliced_meat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Giniling na Karne",
+  "category": "matadero1",
+  "ingredients": [
+   {
+    "name": "sliced_meat",
+    "label": "Hiniwang Karne",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "grind_meat",
+    "label": "grind_meat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Buto ng Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "buto_ng_hayop",
+    "label": "Buto ng Hayop",
+    "count": 5
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_buto",
+    "label": "dinurog_na_buto",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Buto ng Mabangis na Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "buto_ng_mabangis",
+    "label": "Buto ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_buto_mabangis",
+    "label": "dinurog_na_buto_mabangis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Buto ng Alamat na Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "buto_ng_alamat",
+    "label": "Buto ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_buto_alamat",
+    "label": "dinurog_na_buto_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Kuko ng Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "kuko_ng_hayop",
+    "label": "Kuko ng Hayop",
+    "count": 5
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_kuko",
+    "label": "dinurog_na_kuko",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Kuko ng Mabangis na Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "kuko_ng_mabangis",
+    "label": "Kuko ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_kuko_mabangis",
+    "label": "dinurog_na_kuko_mabangis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Kuko ng Alamat na Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "kuko_ng_alamat",
+    "label": "Kuko ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_kuko_alamat",
+    "label": "dinurog_na_kuko_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Pangil ng Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "pangil_ng_hayop",
+    "label": "Pangil ng Hayop",
+    "count": 5
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_pangil",
+    "label": "dinurog_na_pangil",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Pangil ng Mabangis na Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "pangil_ng_mabangis",
+    "label": "Pangil ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_pangil_mabangis",
+    "label": "dinurog_na_pangil_mabangis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Pangil ng Alamat na Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "pangil_ng_alamat",
+    "label": "Pangil ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_pangil_alamat",
+    "label": "dinurog_na_pangil_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Sungay ng Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "sungay_ng_hayop",
+    "label": "Sungay ng Hayop",
+    "count": 5
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_sungay",
+    "label": "dinurog_na_sungay",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Sungay ng Mabangis na Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "sungay_ng_mabangis",
+    "label": "Sungay ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_sungay_mabangis",
+    "label": "dinurog_na_sungay_mabangis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinurog na Sungay ng Alamat na Hayop",
+  "category": "matadero2",
+  "ingredients": [
+   {
+    "name": "sungay_ng_alamat",
+    "label": "Sungay ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinurog_na_sungay_alamat",
+    "label": "dinurog_na_sungay_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinikdik na Balat ng Maliliit na Hayop",
+  "category": "matadero3",
+  "ingredients": [
+   {
+    "name": "pinatuyong_balat_small",
+    "label": "Pinatuyong Balat ng Maliit na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinikdik_na_balat_small",
+    "label": "dinikdik_na_balat_small",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinikdik na Balat ng Katamtamang Hayop",
+  "category": "matadero3",
+  "ingredients": [
+   {
+    "name": "pinatuyong_balat_medium",
+    "label": "Pinatuyong Balat ng Katamtamang Hayop",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 4
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinikdik_na_balat_medium",
+    "label": "dinikdik_na_balat_medium",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinikdik na Balat ng Malaking Hayop",
+  "category": "matadero3",
+  "ingredients": [
+   {
+    "name": "pinatuyong_balat_large",
+    "label": "Pinatuyong Balat ng Malaking Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "dinikdik_na_balat_large",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dinikdik na Balat ng Alamat na Hayop",
+  "category": "matadero3",
+  "ingredients": [
+   {
+    "name": "pinatuyong_balat_alamat",
+    "label": "Pinatuyong Balat ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "dinikdik_na_balat_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "LACARTUS BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "Creeking_Thyme",
+    "label": "Creeking Thyme",
+    "count": 3
+   },
+   {
+    "name": "Oleander_Sage",
+    "label": "Oleander Sage",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "lacartus_bait",
+    "label": "lacartus_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TECA BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "Hummingbird_Sage",
+    "label": "Hummingbird Sage",
+    "count": 3
+   },
+   {
+    "name": "Parasol_Mushroom",
+    "label": "Parasol Mushroom",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "teca_bait",
+    "label": "teca_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PANTHER BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "English_Mace",
+    "label": "English Mace",
+    "count": 3
+   },
+   {
+    "name": "Red_Sage",
+    "label": "Red Sage",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "panther_bait",
+    "label": "panther_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "COUGAR BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "Desert_Sage",
+    "label": "Desert Sage",
+    "count": 3
+   },
+   {
+    "name": "Bitter_Weed",
+    "label": "Bitter Weed",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "cougar_bait",
+    "label": "cougar_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BEAR BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "American_Ginseng",
+    "label": "American Ginseng",
+    "count": 3
+   },
+   {
+    "name": "Wintergreen_Berry",
+    "label": "Wintergreen Berry",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "bear_bait",
+    "label": "bear_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "ELK BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "Alaskan_Ginseng",
+    "label": "Alaskan Ginseng",
+    "count": 3
+   },
+   {
+    "name": "Evergreen_Huckleberry",
+    "label": "Evergreen Huckleberry",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "elk_bait",
+    "label": "elk_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "RAM BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "Prairie_Poppy",
+    "label": "Prairie Poppy",
+    "count": 3
+   },
+   {
+    "name": "Red_Raspberry",
+    "label": "Red Raspberry",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "ram_bait",
+    "label": "ram_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BUFFALO BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "Indian_Tobbaco",
+    "label": "Indian Tobbaco",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "buffalo_bait",
+    "label": "buffalo_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BOAR BAIT",
+  "category": "matadero4",
+  "ingredients": [
+   {
+    "name": "animalmeat",
+    "label": "Hilaw na Karne",
+    "count": 10
+   },
+   {
+    "name": "Black_Currant",
+    "label": "Black Currant",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "boar_bait",
+    "label": "boar_bait",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Horse Meal",
+  "category": "ensayador1",
+  "ingredients": [
+   {
+    "name": "hay",
+    "label": "Hay",
+    "count": 3
+   },
+   {
+    "name": "carrots",
+    "label": "Karots",
+    "count": 3
+   },
+   {
+    "name": "banana",
+    "label": "Saging",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "Horse_Meal",
+    "label": "Horse_Meal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Dayami",
+  "category": "ensayador1",
+  "ingredients": [
+   {
+    "name": "hay",
+    "label": "Hay",
+    "count": 3
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "consumable_haycube",
+    "label": "consumable_haycube",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Horse Medicine",
+  "category": "ensayador1",
+  "ingredients": [
+   {
+    "name": "Creeking_Thyme",
+    "label": "Creeking Thyme",
+    "count": 10
+   },
+   {
+    "name": "English_Mace",
+    "label": "English Mace",
+    "count": 10
+   },
+   {
+    "name": "Hummingbird_Sage",
+    "label": "Hummingbird Sage",
+    "count": 10
+   },
+   {
+    "name": "antibiotics",
+    "label": "Antibiotic",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "halamang_kontra_kamandag",
+    "label": "Halamang Kontra Kamandag",
+    "count": 1
+   },
+   {
+    "name": "pinakuluang_herbal",
+    "label": "Pinakuluang Halamang Gamot",
+    "count": 1
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "resiklong_materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "Heal_Horse",
+    "label": "Heal_Horse",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Horse Stimulant",
+  "category": "ensayador1",
+  "ingredients": [
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 10
+   },
+   {
+    "name": "wheat",
+    "label": "Trigo",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 10
+   },
+   {
+    "name": "sulfuric_acid",
+    "label": "Sulfuric Acid",
+    "count": 5
+   },
+   {
+    "name": "pinakuluang_herbal",
+    "label": "Pinakuluang Halamang Gamot",
+    "count": 2
+   },
+   {
+    "name": "syringe_casing",
+    "label": "Syringe Casing",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "resiklong_materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "stim",
+    "label": "stim",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Horse Brush",
+  "category": "ensayador2",
+  "ingredients": [
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 10
+   },
+   {
+    "name": "feathers",
+    "label": "Balahibo",
+    "count": 20
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 20
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 10
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "horsebrush",
+    "label": "horsebrush",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Hoof Hook",
+  "category": "ensayador2",
+  "ingredients": [
+   {
+    "name": "hook",
+    "label": "Hook",
+    "count": 1
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_buto_mabangis",
+    "label": "Dinurog na Buto ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko_mabangis",
+    "label": "Dinurog na Kuko ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil_mabangis",
+    "label": "Dinurog na Pangil ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay_mabangis",
+    "label": "Dinurog na Sungay ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "resiklong_materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "Hoof_Hook",
+    "label": "Hoof_Hook",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Change Tag",
+  "category": "ensayador2",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 50
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 30
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 30
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 30
+   },
+   {
+    "name": "pulp",
+    "label": "Pulp",
+    "count": 30
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 30
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto_mabangis",
+    "label": "Dinurog na Buto ng Mabangis Hayop",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_kuko_mabangis",
+    "label": "Dinurog na Kuko ng Mabangis Hayop",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_pangil_mabangis",
+    "label": "Dinurog na Pangil ng Mabangis Hayop",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_sungay_mabangis",
+    "label": "Dinurog na Sungay ng Mabangis Hayop",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "resiklong_materyales",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "CartTag",
+    "label": "CartTag",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SAPATOS NA KABAYO",
+  "category": "ensayador2",
+  "ingredients": [
+   {
+    "name": "molde_ng_sapatos",
+    "label": "Molde ng Sapatos",
+    "count": 1
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 10
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 10
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "resiklong_materyales",
+    "count": 20
+   }
+  ],
+  "reward": [
+   {
+    "name": "Horse_Shoe",
+    "label": "Horse_Shoe",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PINGGAN x10",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "clay",
+    "label": "Clay",
+    "count": 20
+   },
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 10
+   },
+   {
+    "name": "pulp",
+    "label": "Pulp",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "pinggan",
+    "label": "pinggan",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "MANGKOK x10",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "clay",
+    "label": "Clay",
+    "count": 20
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 10
+   },
+   {
+    "name": "pulp",
+    "label": "Pulp",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "mangkok",
+    "label": "mangkok",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Silica Sand",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "sand",
+    "label": "Sand",
+    "count": 3
+   },
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming tubig",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "silica_sand",
+    "label": "silica_sand",
+    "count": 2
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Glass",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "silica_sand",
+    "label": "Silica Sand",
+    "count": 4
+   },
+   {
+    "name": "soda_ash",
+    "label": "Soda Ash",
+    "count": 2
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 2
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "glass",
+    "label": "glass",
+    "count": 5
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PROCESSED OIL",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "langis",
+    "label": "Oil",
+    "count": 3
+   },
+   {
+    "name": "sulfur",
+    "label": "Sulfur",
+    "count": 2
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 2
+   },
+   {
+    "name": "lead",
+    "label": "Lead",
+    "count": 2
+   },
+   {
+    "name": "saltpeter",
+    "label": "Saltpeter",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "prosesong_langis",
+    "label": "prosesong_langis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Screw",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 30
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "screw",
+    "label": "screw",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Pako",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 20
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "nails",
+    "label": "nails",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Bullet Casing",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 10
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 10
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "bullet_casing",
+    "label": "bullet_casing",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BULLET TIP",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "lead",
+    "label": "Lead",
+    "count": 10
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 10
+   },
+   {
+    "name": "pyrolusite_ore",
+    "label": "Pyrolusite Ore",
+    "count": 10
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "bullet_tip",
+    "label": "bullet_tip",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Syringe Casing",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "copper",
+    "label": "Tanso",
+    "count": 30
+   },
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 30
+   },
+   {
+    "name": "glass",
+    "label": "Glass",
+    "count": 10
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 50
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "syringe_casing",
+    "label": "syringe_casing",
+    "count": 10
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "HOOK",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 10
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 25
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "hook",
+    "label": "hook",
+    "count": 5
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "MOLDE NG SAPATOS NG KABAYO",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 5
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 10
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 5
+   },
+   {
+    "name": "clay",
+    "label": "Clay",
+    "count": 10
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 20
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 1
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik Balat ng Alamat na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "molde_ng_sapatos",
+    "label": "molde_ng_sapatos",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "MOLDE NG BARIL",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 2
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 2
+   },
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 2
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 10
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 5
+   },
+   {
+    "name": "clay",
+    "label": "Clay",
+    "count": 10
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 20
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 2
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik Balat ng Alamat na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "molde_ng_baril",
+    "label": "molde_ng_baril",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "RIFLE KIT",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "molde_ng_baril",
+    "label": "Molde ng Baril",
+    "count": 1
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 5
+   },
+   {
+    "name": "refined_ruby",
+    "label": "Refined Ruby",
+    "count": 5
+   },
+   {
+    "name": "refined_diamond",
+    "label": "Refined Diamond",
+    "count": 5
+   },
+   {
+    "name": "refined_emerald",
+    "label": "Refined Emerald",
+    "count": 5
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 5
+   },
+   {
+    "name": "refined_opal",
+    "label": "Refined Opal",
+    "count": 5
+   },
+   {
+    "name": "refined_sapphire",
+    "label": "Refined Sapphire",
+    "count": 5
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 50
+   }
+  ],
+  "reward": [
+   {
+    "name": "rifle_kit",
+    "label": "rifle_kit",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REPEATER KIT",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "molde_ng_baril",
+    "label": "Molde ng Baril",
+    "count": 1
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 3
+   },
+   {
+    "name": "refined_ruby",
+    "label": "Refined Ruby",
+    "count": 3
+   },
+   {
+    "name": "refined_diamond",
+    "label": "Refined Diamond",
+    "count": 3
+   },
+   {
+    "name": "refined_emerald",
+    "label": "Refined Emerald",
+    "count": 3
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 3
+   },
+   {
+    "name": "refined_opal",
+    "label": "Refined Opal",
+    "count": 3
+   },
+   {
+    "name": "refined_sapphire",
+    "label": "Refined Sapphire",
+    "count": 3
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   },
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming tubig",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 40
+   }
+  ],
+  "reward": [
+   {
+    "name": "repeater_kit",
+    "label": "repeater_kit",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REVOLVER KIT",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "molde_ng_baril",
+    "label": "Molde ng Baril",
+    "count": 1
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 1
+   },
+   {
+    "name": "refined_ruby",
+    "label": "Refined Ruby",
+    "count": 1
+   },
+   {
+    "name": "refined_diamond",
+    "label": "Refined Diamond",
+    "count": 1
+   },
+   {
+    "name": "refined_emerald",
+    "label": "Refined Emerald",
+    "count": 1
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 1
+   },
+   {
+    "name": "refined_opal",
+    "label": "Refined Opal",
+    "count": 1
+   },
+   {
+    "name": "refined_sapphire",
+    "label": "Refined Sapphire",
+    "count": 1
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay na Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   },
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming tubig",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 30
+   }
+  ],
+  "reward": [
+   {
+    "name": "revolver_kit",
+    "label": "revolver_kit",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PISTOL KIT",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "molde_ng_baril",
+    "label": "Molde ng Baril",
+    "count": 1
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 2
+   },
+   {
+    "name": "refined_ruby",
+    "label": "Refined Ruby",
+    "count": 2
+   },
+   {
+    "name": "refined_diamond",
+    "label": "Refined Diamond",
+    "count": 2
+   },
+   {
+    "name": "refined_emerald",
+    "label": "Refined Emerald",
+    "count": 2
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 2
+   },
+   {
+    "name": "refined_opal",
+    "label": "Refined Opal",
+    "count": 2
+   },
+   {
+    "name": "refined_sapphire",
+    "label": "Refined Sapphire",
+    "count": 2
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   },
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming tubig",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 30
+   }
+  ],
+  "reward": [
+   {
+    "name": "pistol_kit",
+    "label": "pistol_kit",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SHOTGUN KIT",
+  "category": "panday1",
+  "ingredients": [
+   {
+    "name": "molde_ng_baril",
+    "label": "Molde ng Baril",
+    "count": 1
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 7
+   },
+   {
+    "name": "refined_ruby",
+    "label": "Refined Ruby",
+    "count": 7
+   },
+   {
+    "name": "refined_diamond",
+    "label": "Refined Diamond",
+    "count": 7
+   },
+   {
+    "name": "refined_emerald",
+    "label": "Refined Emerald",
+    "count": 7
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 7
+   },
+   {
+    "name": "refined_opal",
+    "label": "Refined Opal",
+    "count": 7
+   },
+   {
+    "name": "refined_sapphire",
+    "label": "Refined Sapphire",
+    "count": 7
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay na Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   },
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming tubig",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 70
+   }
+  ],
+  "reward": [
+   {
+    "name": "shotgun_kit",
+    "label": "shotgun_kit",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Chisel",
+  "category": "panday",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "chisel",
+    "label": "chisel",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Iron Hammer",
+  "category": "panday",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "ironhammer",
+    "label": "ironhammer",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Hand Saw",
+  "category": "panday",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "handsaw",
+    "label": "handsaw",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Blacksmith Tongs",
+  "category": "panday",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 3
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "blacksmith_tongs",
+    "label": "blacksmith_tongs",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Crucible",
+  "category": "panday",
+  "ingredients": [
+   {
+    "name": "clay",
+    "label": "Clay",
+    "count": 5
+   },
+   {
+    "name": "sand",
+    "label": "Sand",
+    "count": 3
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming tubig",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "crucible",
+    "label": "crucible",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Piko",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "pickaxe",
+    "label": "pickaxe",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Palakol",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "hatchet",
+    "label": "hatchet",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Kalaykay",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 3
+   },
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "rake",
+    "label": "rake",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Panghukay",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 5
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_buto_mabangis",
+    "label": "Dinurog na Buto ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko_mabangis",
+    "label": "Dinurog na Kuko ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil_mabangis",
+    "label": "Dinurog na Pangil ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay_mabangis",
+    "label": "Dinurog na Sungay ng Mabangis Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "shovel",
+    "label": "shovel",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Gold Pan",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 1
+   },
+   {
+    "name": "lead",
+    "label": "Lead",
+    "count": 10
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "goldpan",
+    "label": "goldpan",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Butcher Knife",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 3
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "butcher_knife",
+    "label": "butcher_knife",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Butcher Saw",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 4
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 3
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 4
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 3
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "butcher_saw",
+    "label": "butcher_saw",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Fleshing Knife",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 3
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 3
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "fleshing_knife",
+    "label": "fleshing_knife",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Fillet Knife",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 2
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 2
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "fillet_knife",
+    "label": "fillet_knife",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PLANT TRIMMER",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 3
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "planttrimmer",
+    "label": "planttrimmer",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SHOVEL GARDEN",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 3
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "shovelgarden",
+    "label": "shovelgarden",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BUCKET",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 2
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "bucket",
+    "label": "bucket",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Mortar and Pestle",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 20
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 20
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "mortar_pestle",
+    "label": "mortar_pestle",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Glass Flask",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "glass",
+    "label": "Glass",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 3
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "glass_flask",
+    "label": "glass_flask",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "WHETSTONE",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "rock",
+    "label": "Bato",
+    "count": 10
+   },
+   {
+    "name": "sand",
+    "label": "Buhangin",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "whetstone",
+    "label": "whetstone",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "HUNTING TRAP",
+  "category": "panday3",
+  "ingredients": [
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 6
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 2
+   },
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "huntingtrap",
+    "label": "huntingtrap",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "LAMPARA",
+  "category": "panday4",
+  "ingredients": [
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 3
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 5
+   },
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 5
+   },
+   {
+    "name": "glass",
+    "label": "Salamin",
+    "count": 5
+   },
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 3
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 4
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_buto",
+    "label": "Tinunaw na Buto",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_kuko",
+    "label": "Tinunaw na Pangil",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_pangil",
+    "label": "Tinunaw na Kuko",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_sungay",
+    "label": "Tinunaw na Sungay",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 10
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_MELEE_LANTERN",
+    "label": "WEAPON_MELEE_LANTERN",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PINALAKAS NA LAMPARA",
+  "category": "panday4",
+  "ingredients": [
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 5
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 10
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 5
+   },
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 5
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 5
+   },
+   {
+    "name": "glass",
+    "label": "Salamin",
+    "count": 10
+   },
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 10
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 5
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 15
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_MELEE_DAVY_LANTERN",
+    "label": "WEAPON_MELEE_DAVY_LANTERN",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "LAMPARANG MAY DISENYONG BUNGO",
+  "category": "panday4",
+  "ingredients": [
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 10
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 15
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 10
+   },
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 10
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 10
+   },
+   {
+    "name": "glass",
+    "label": "Salamin",
+    "count": 15
+   },
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 10
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 10
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 15
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 8
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 25
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_MELEE_LANTERN_HALLOWEEN",
+    "label": "WEAPON_MELEE_LANTERN_HALLOWEEN",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED GOLD",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "gold_ore",
+    "label": "Gold Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_gold",
+    "label": "refined_gold",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED COPPER",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "copper_ore",
+    "label": "Copper Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_copper",
+    "label": "refined_copper",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED IRON",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "ironore",
+    "label": "Iron Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_iron",
+    "label": "refined_iron",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED SILVER",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "silver_ore",
+    "label": "Silver Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_silver",
+    "label": "refined_silver",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED ALUMINUM",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "aluminum_ore",
+    "label": "Aluminum Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_aluminum",
+    "label": "refined_aluminum",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED RUBY",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "rubyore",
+    "label": "Ruby Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_ruby",
+    "label": "refined_ruby",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED DIAMOND",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "diamondore",
+    "label": "Diamond Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_diamond",
+    "label": "refined_diamond",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED EMERALD",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "emeraldore",
+    "label": "Emerald Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_emerald",
+    "label": "refined_emerald",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED OPAL",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "opal_ore",
+    "label": "Opal Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_opal",
+    "label": "refined_opal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REFINED SAPPHIRE",
+  "category": "panday5",
+  "ingredients": [
+   {
+    "name": "sapphire_ore",
+    "label": "Sapphire Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "refined_sapphire",
+    "label": "refined_sapphire",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA BUTO NG HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto ng Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 4
+   },
+   {
+    "name": "dinikdik_na_balat_small",
+    "label": "Dinikdik na Balat ng Maliliit na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_buto",
+    "label": "tinunaw_na_buto",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA KUKO NG HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko ng Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 4
+   },
+   {
+    "name": "dinikdik_na_balat_small",
+    "label": "Dinikdik na Balat ng Maliliit na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_kuko",
+    "label": "tinunaw_na_kuko",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA PANGIL NG HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil ng Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 4
+   },
+   {
+    "name": "dinikdik_na_balat_small",
+    "label": "Dinikdik na Balat ng Maliliit na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_pangil",
+    "label": "tinunaw_na_pangil",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA SUNGAY NG HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay ng Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 4
+   },
+   {
+    "name": "dinikdik_na_balat_small",
+    "label": "Dinikdik na Balat ng Maliliit na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_sungay",
+    "label": "tinunaw_na_sungay",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA BUTO NG MABANGIS NA HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_buto_mabangis",
+    "label": "Dinurog na Buto ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 7
+   },
+   {
+    "name": "dinikdik_na_balat_medium",
+    "label": "Dinikdik na Balat ng Katamtaman na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "tinunaw_na_buto_mabangis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA KUKO NG MABANGIS NA HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_kuko_mabangis",
+    "label": "Dinurog na Kuko ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 7
+   },
+   {
+    "name": "dinikdik_na_balat_medium",
+    "label": "Dinikdik na Balat ng Katamtaman na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "tinunaw_na_kuko_mabangis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA PANGIL NG MABANGIS NA HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_pangil_mabangis",
+    "label": "Dinurog na Pangil ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 7
+   },
+   {
+    "name": "dinikdik_na_balat_medium",
+    "label": "Dinikdik na Balat ng Katamtaman na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "tinunaw_na_pangil_mabangis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA SUNGAY NG MABANGIS NA HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_sungay_mabangis",
+    "label": "Dinurog na Sungay ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 7
+   },
+   {
+    "name": "dinikdik_na_balat_medium",
+    "label": "Dinikdik na Balat ng Katamtaman na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "tinunaw_na_sungay_mabangis",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA BUTO NG ALAMAT",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_buto_alamat",
+    "label": "Dinurog na Buto ng Alamat",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 10
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "tinunaw_na_buto_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA KUKO NG ALAMAT NA HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_kuko_alamat",
+    "label": "Dinurog na Kuko ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 10
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "tinunaw_na_kuko_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA PANGIL NG ALAMAT NA HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_pangil_alamat",
+    "label": "Dinurog na Pangil ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 10
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "tinunaw_na_pangil_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINUNAW NA SUNGAY NG ALAMAT NA HAYOP",
+  "category": "panday2",
+  "ingredients": [
+   {
+    "name": "dinurog_na_sungay_alamat",
+    "label": "Dinurog na Sungay ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 10
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "tinunaw_na_sungay_alamat",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "CLOTH",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "wool",
+    "label": "Wool",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "cloth",
+    "label": "cloth",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "LYE",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "soda_ash",
+    "label": "Soda Ash",
+    "count": 1
+   },
+   {
+    "name": "wateringcan",
+    "label": "Malinis na Tubig",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "lye",
+    "label": "lye",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PURIFIED WATER",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "wateringcan_dirtywater",
+    "label": "Maruming Tubig",
+    "count": 3
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   },
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "purified_water",
+    "label": "purified_water",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SULFURIC ACID",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "sulfur",
+    "label": "Sulfur",
+    "count": 3
+   },
+   {
+    "name": "saltpeter",
+    "label": "Saltpeter",
+    "count": 3
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "sulfuric_acid",
+    "label": "sulfuric_acid",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "MANGANESE DIOXIDE",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "pyrolusite_ore",
+    "label": "Pyrolusite Ore",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "manganese_dioxide",
+    "label": "manganese_dioxide",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "IODINE CRYSTALS",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "burned_kelp_ash",
+    "label": "Burned Kelp Ash",
+    "count": 3
+   },
+   {
+    "name": "sulfuric_acid",
+    "label": "Sulfuric Acid",
+    "count": 1
+   },
+   {
+    "name": "manganese_dioxide",
+    "label": "Manganese Dioxide",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "iodine_crystals",
+    "label": "iodine_crystals",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "ALCOHOL",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "yeast",
+    "label": "Yeast",
+    "count": 1
+   },
+   {
+    "name": "sugar",
+    "label": "Sugar",
+    "count": 3
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "alcohol",
+    "label": "alcohol",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "ETHYL ALCOHOL",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "alcohol",
+    "label": "Alcohol",
+    "count": 2
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "ethyl_alcohol",
+    "label": "ethyl_alcohol",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "TINCTURE OF IODINE",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "iodine_crystals",
+    "label": "Iodine Crystals",
+    "count": 1
+   },
+   {
+    "name": "ethyl_alcohol",
+    "label": "Ethyl Alcohol",
+    "count": 1
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "tincture_of_iodine",
+    "label": "tincture_of_iodine",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "ANTIBIOTIC",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "sulfuric_acid",
+    "label": "Sulfuric Acid",
+    "count": 1
+   },
+   {
+    "name": "ethyl_alcohol",
+    "label": "Ethyl Alcohol",
+    "count": 1
+   },
+   {
+    "name": "Oleander_Sage",
+    "label": "Oleander Sage",
+    "count": 2
+   },
+   {
+    "name": "Desert_Sage",
+    "label": "Desert Sage",
+    "count": 2
+   },
+   {
+    "name": "American_Ginseng",
+    "label": "American Ginseng",
+    "count": 2
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "antibiotics",
+    "label": "antibiotics",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SABON",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "fat",
+    "label": "Taba",
+    "count": 5
+   },
+   {
+    "name": "lye",
+    "label": "Lye",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "soap",
+    "label": "soap",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Halamang Gamot",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "leaf",
+    "label": "Dahon",
+    "count": 5
+   },
+   {
+    "name": "Creeking_Thyme",
+    "label": "Creeking Thyme",
+    "count": 1
+   },
+   {
+    "name": "English_Mace",
+    "label": "English Mace",
+    "count": 1
+   },
+   {
+    "name": "Hummingbird_Sage",
+    "label": "Hummingbird Sage",
+    "count": 1
+   },
+   {
+    "name": "Oleander_Sage",
+    "label": "Oleander Sage",
+    "count": 1
+   },
+   {
+    "name": "Desert_Sage",
+    "label": "Desert Sage",
+    "count": 1
+   },
+   {
+    "name": "American_Ginseng",
+    "label": "American Ginseng",
+    "count": 1
+   },
+   {
+    "name": "Alaskan_Ginseng",
+    "label": "Alaskan Ginseng",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "herbal_leaf",
+    "label": "herbal_leaf",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Pinakuluang Halamang Gamot",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "herbal_leaf",
+    "label": "Herbal Leaf",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "pinakuluang_herbal",
+    "label": "pinakuluang_herbal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "Halamang Kontra Kamandag",
+  "category": "doctor1",
+  "ingredients": [
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "Snake_Poison",
+    "label": "Snake Poison",
+    "count": 1
+   },
+   {
+    "name": "ginger",
+    "label": "Luya",
+    "count": 3
+   },
+   {
+    "name": "Red_Raspberry",
+    "label": "Red Raspberry",
+    "count": 3
+   },
+   {
+    "name": "Black_Currant",
+    "label": "Black Currant",
+    "count": 3
+   },
+   {
+    "name": "Bitter_Weed",
+    "label": "Bitter Weed",
+    "count": 3
+   },
+   {
+    "name": "Parasol_Mushroom",
+    "label": "Parasol Mushroom",
+    "count": 3
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "halamang_kontra_kamandag",
+    "label": "halamang_kontra_kamandag",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SYRINGE",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "syringe_casing",
+    "label": "Syringe Casing",
+    "count": 1
+   },
+   {
+    "name": "glass",
+    "label": "Glass",
+    "count": 1
+   },
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 3
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "syringe",
+    "label": "syringe",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BANDAGE",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 2
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "Evergreen_Huckleberry",
+    "label": "Evergreen Huckleberry",
+    "count": 2
+   },
+   {
+    "name": "Wintergreen_Berry",
+    "label": "Wintergreen Berry",
+    "count": 2
+   },
+   {
+    "name": "ginger",
+    "label": "Luya",
+    "count": 3
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "bandage",
+    "label": "bandage",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "KONTRA KAMANDAG NG AHAS",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "halamang_kontra_kamandag",
+    "label": "Halamang Kontra Kamandag",
+    "count": 1
+   },
+   {
+    "name": "tincture_of_iodine",
+    "label": "Tincture of Iodine",
+    "count": 1
+   },
+   {
+    "name": "ethyl_alcohol",
+    "label": "Ethyl Alcohol",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "antipoison",
+    "label": "antipoison",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SULFUR OINTMENT",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "sulfur",
+    "label": "Sulfur",
+    "count": 5
+   },
+   {
+    "name": "ethyl_alcohol",
+    "label": "Ethyl Alcohol",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "soap",
+    "label": "Soap",
+    "count": 1
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "sulfur_ointment",
+    "label": "sulfur_ointment",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BANANA TONIC",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "banana",
+    "label": "Banana",
+    "count": 5
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "sugar",
+    "label": "Sugar",
+    "count": 3
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 3
+   },
+   {
+    "name": "American_Ginseng",
+    "label": "American Ginseng",
+    "count": 1
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "banana_tonic",
+    "label": "banana_tonic",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PAIN KILLER",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "ethyl_alcohol",
+    "label": "Ethyl Alcohol",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "Prairie_Poppy",
+    "label": "Prairie Poppy",
+    "count": 3
+   },
+   {
+    "name": "Red_Sage",
+    "label": "Red Sage",
+    "count": 3
+   },
+   {
+    "name": "ginger",
+    "label": "Luya",
+    "count": 3
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "painkiller",
+    "label": "painkiller",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "LAUDANUM",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "ethyl_alcohol",
+    "label": "Ethyl Alcohol",
+    "count": 2
+   },
+   {
+    "name": "American_Ginseng",
+    "label": "American Ginseng",
+    "count": 3
+   },
+   {
+    "name": "Creeking_Thyme",
+    "label": "Creeking Thyme",
+    "count": 3
+   },
+   {
+    "name": "Hummingbird_Sage",
+    "label": "Hummingbird Sage",
+    "count": 3
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "laudanum",
+    "label": "laudanum",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "MORPHINE SHOT",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "syringe",
+    "label": "Syringe",
+    "count": 1
+   },
+   {
+    "name": "ethyl_alcohol",
+    "label": "Ethyl Alcohol",
+    "count": 2
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "herbal_leaf",
+    "label": "Halamang Gamot",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "morphia_shot",
+    "label": "morphia_shot",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "COUGH SYRUP",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "pinakuluang_herbal",
+    "label": "Pinakuluang Halamang Gamot",
+    "count": 2
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "honey",
+    "label": "Honey",
+    "count": 3
+   },
+   {
+    "name": "Parasol_Mushroom",
+    "label": "Parasol Mushroom",
+    "count": 3
+   },
+   {
+    "name": "ginger",
+    "label": "Luya",
+    "count": 3
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "cough_syrup",
+    "label": "cough_syrup",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "CHOLERA VACCINE",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "syringe",
+    "label": "Syringe",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "ethyl_alcohol",
+    "label": "Ethyl Alcohol",
+    "count": 1
+   },
+   {
+    "name": "tincture_of_iodine",
+    "label": "Tincture of Iodine",
+    "count": 1
+   },
+   {
+    "name": "antibiotics",
+    "label": "Antibiotic",
+    "count": 1
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "kolera_vaccine",
+    "label": "kolera_vaccine",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "HERBAL POULTICE",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "pinakuluang_herbal",
+    "label": "Pinakuluang Halamang Gamot",
+    "count": 1
+   },
+   {
+    "name": "American_Ginseng",
+    "label": "American Ginseng",
+    "count": 3
+   },
+   {
+    "name": "Hummingbird_Sage",
+    "label": "Hummingbird Sage",
+    "count": 3
+   },
+   {
+    "name": "ginger",
+    "label": "Luya",
+    "count": 2
+   },
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 2
+   },
+   {
+    "name": "mantika",
+    "label": "Mantika",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "herbal_poultice",
+    "label": "herbal_poultice",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "COOLING TONIC",
+  "category": "doctor2",
+  "ingredients": [
+   {
+    "name": "consumable_peach",
+    "label": "Peach",
+    "count": 5
+   },
+   {
+    "name": "grapes",
+    "label": "Ubas",
+    "count": 5
+   },
+   {
+    "name": "sugar",
+    "label": "Asukal",
+    "count": 3
+   },
+   {
+    "name": "ice",
+    "label": "Yelo",
+    "count": 3
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "American_Ginseng",
+    "label": "American Ginseng",
+    "count": 2
+   },
+   {
+    "name": "glassbottle",
+    "label": "Bote",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "cooling_tonic",
+    "label": "cooling_tonic",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PANURI",
+  "category": "doctor3",
+  "ingredients": [
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 1
+   },
+   {
+    "name": "glass",
+    "label": "Glass",
+    "count": 2
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 2
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "panuri",
+    "label": "panuri",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PANGUNANG LUNAS",
+  "category": "doctor3",
+  "ingredients": [
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 3
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 4
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 2
+   },
+   {
+    "name": "soap",
+    "label": "Soap",
+    "count": 1
+   },
+   {
+    "name": "washcloth",
+    "label": "Face Towel",
+    "count": 1
+   },
+   {
+    "name": "bandage",
+    "label": "Bandage",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "docfirstaidkit",
+    "label": "docfirstaidkit",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "FACE TOWEL",
+  "category": "doctor3",
+  "ingredients": [
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 2
+   },
+   {
+    "name": "soap",
+    "label": "Soap",
+    "count": 1
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "washcloth",
+    "label": "washcloth",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "MALINIS NA TELA",
+  "category": "doctor3",
+  "ingredients": [
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 3
+   },
+   {
+    "name": "purified_water",
+    "label": "Purified Water",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "cleancloth",
+    "label": "cleancloth",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "GUNPOWDER",
+  "category": "armero1",
+  "ingredients": [
+   {
+    "name": "saltpeter",
+    "label": "Saltpeter",
+    "count": 2
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 2
+   },
+   {
+    "name": "sulfur",
+    "label": "Sulfur",
+    "count": 2
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "gunpowder",
+    "label": "gunpowder",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "GUN CLOTH",
+  "category": "armero1",
+  "ingredients": [
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 5
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 1
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "guncloth",
+    "label": "guncloth",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BALA NG REVOLVER",
+  "category": "armero2",
+  "ingredients": [
+   {
+    "name": "bullet_casing",
+    "label": "Bullet Casing",
+    "count": 1
+   },
+   {
+    "name": "bullet_tip",
+    "label": "Bullet Tip",
+    "count": 1
+   },
+   {
+    "name": "gunpowder",
+    "label": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "cardboard_pieces",
+    "label": "Cardboard Pieces",
+    "count": 10
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammorevolvernormal",
+    "label": "ammorevolvernormal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BALA NG PISTOL",
+  "category": "armero2",
+  "ingredients": [
+   {
+    "name": "bullet_casing",
+    "label": "Bullet Casing",
+    "count": 1
+   },
+   {
+    "name": "bullet_tip",
+    "label": "Bullet Tip",
+    "count": 1
+   },
+   {
+    "name": "gunpowder",
+    "label": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "cardboard_pieces",
+    "label": "Cardboard Pieces",
+    "count": 10
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 2
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammopistolnormal",
+    "label": "ammopistolnormal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BALA NG SHOTGUN",
+  "category": "armero2",
+  "ingredients": [
+   {
+    "name": "bullet_casing",
+    "label": "Bullet Casing",
+    "count": 5
+   },
+   {
+    "name": "bullet_tip",
+    "label": "Bullet Tip",
+    "count": 5
+   },
+   {
+    "name": "gunpowder",
+    "label": "Gunpowder",
+    "count": 5
+   },
+   {
+    "name": "cardboard_pieces",
+    "label": "Cardboard Pieces",
+    "count": 20
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 10
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammoshotgunnormal",
+    "label": "ammoshotgunnormal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BALA NG REPEATER",
+  "category": "armero2",
+  "ingredients": [
+   {
+    "name": "bullet_casing",
+    "label": "Bullet Casing",
+    "count": 2
+   },
+   {
+    "name": "bullet_tip",
+    "label": "Bullet Tip",
+    "count": 2
+   },
+   {
+    "name": "gunpowder",
+    "label": "Gunpowder",
+    "count": 3
+   },
+   {
+    "name": "cardboard_pieces",
+    "label": "Cardboard Pieces",
+    "count": 15
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 6
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammorepeaternormal",
+    "label": "ammorepeaternormal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BALA NG RIFLE",
+  "category": "armero2",
+  "ingredients": [
+   {
+    "name": "bullet_casing",
+    "label": "Bullet Casing",
+    "count": 4
+   },
+   {
+    "name": "bullet_tip",
+    "label": "Bullet Tip",
+    "count": 4
+   },
+   {
+    "name": "gunpowder",
+    "label": "Gunpowder",
+    "count": 4
+   },
+   {
+    "name": "cardboard_pieces",
+    "label": "Cardboard Pieces",
+    "count": 20
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 8
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammoriflenormal",
+    "label": "ammoriflenormal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "CATTLEMAN REVOLVER",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "revolver_kit",
+    "label": "Revolver Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 5
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 2
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 10
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 2
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 2
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 30
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_REVOLVER_CATTLEMAN",
+    "label": "WEAPON_REVOLVER_CATTLEMAN",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "DOUBLE ACTION REVOLVER",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "revolver_kit",
+    "label": "Revolver Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 3
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 1
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 8
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 20
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_REVOLVER_DOUBLEACTION",
+    "label": "WEAPON_REVOLVER_DOUBLEACTION",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SCHOFIELD REVOLVER",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "revolver_kit",
+    "label": "Revolver Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 5
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 3
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 8
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 2
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 2
+   },
+   {
+    "name": "dinikdik_na_balat_large",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 20
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_REVOLVER_SCHOFIELD",
+    "label": "WEAPON_REVOLVER_SCHOFIELD",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "REVOLVER LEMAT",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "revolver_kit",
+    "label": "Revolver Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 10
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 20
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 5
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik Balat ng Alamat na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 50
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_REVOLVER_LEMAT",
+    "label": "WEAPON_REVOLVER_LEMAT",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SEMI AUTO PISTOL",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "revolver_kit",
+    "label": "Revolver Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 15
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 3
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 15
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 5
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik Balat ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay ng Alamat na Hayop",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 40
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_PISTOL_SEMIAUTO",
+    "label": "WEAPON_PISTOL_SEMIAUTO",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "NAVY REVOLVER",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "revolver_kit",
+    "label": "Revolver Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 10
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 20
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 5
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik Balat ng Alamat na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay ng Alamat na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 50
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_REVOLVER_NAVY",
+    "label": "WEAPON_REVOLVER_NAVY",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BOLT ACTION RIFLE",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "rifle_kit",
+    "label": "Rifle Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 20
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 15
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 40
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 5
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik Balat ng Alamat na Hayop",
+    "count": 8
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay ng Alamat na Hayop",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 70
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_RIFLE_BOLTACTION",
+    "label": "WEAPON_RIFLE_BOLTACTION",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "WINCHESTER REPEATER",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "repeater_kit",
+    "label": "Repeater Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 15
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 12
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 30
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 3
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik Balat ng Alamat na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay ng Alamat na Hayop",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 60
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_REPEATER_WINCHESTER",
+    "label": "WEAPON_REPEATER_WINCHESTER",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "EVANS REPEATER",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "repeater_kit",
+    "label": "Repeater Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 15
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 3
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 15
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 3
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 35
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_REPEATER_EVANS",
+    "label": "WEAPON_REPEATER_EVANS",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "CARBINE REPEATER",
+  "category": "armero3",
+  "ingredients": [
+   {
+    "name": "repeater_kit",
+    "label": "Repeater Kit",
+    "count": 1
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 15
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 3
+   },
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 15
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 3
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 3
+   },
+   {
+    "name": "dinikdik_na_balat_alamat",
+    "label": "Dinikdik na Balat ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay ng Mabangis na Hayop",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 35
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_REPEATER_CARBINE",
+    "label": "WEAPON_REPEATER_CARBINE",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BINOCULARS",
+  "category": "armero4",
+  "ingredients": [
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 3
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 3
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 3
+   },
+   {
+    "name": "glass",
+    "label": "Glass",
+    "count": 3
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "silica_sand",
+    "label": "Silica Sand",
+    "count": 5
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_KIT_BINOCULARS",
+    "label": "WEAPON_KIT_BINOCULARS",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "KUTSILYO",
+  "category": "armero4",
+  "ingredients": [
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 1
+   },
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 1
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "screw",
+    "label": "Turnilyo",
+    "count": 5
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 3
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_MELEE_KNIFE",
+    "label": "WEAPON_MELEE_KNIFE",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "MUSHROOM",
+  "category": "katutubo5",
+  "ingredients": [
+   {
+    "name": "Parasol_Mushroom",
+    "label": "Parasol Mushroom",
+    "count": 5
+   },
+   {
+    "name": "Oleander_Sage",
+    "label": "Oleander Sage",
+    "count": 5
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 5
+   },
+   {
+    "name": "saltpeter",
+    "label": "Saltpeter",
+    "count": 5
+   },
+   {
+    "name": "pyrolusite_ore",
+    "label": "Pyrolusite Ore",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "mushroom",
+    "label": "mushroom",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PEYOTE",
+  "category": "katutubo5",
+  "ingredients": [
+   {
+    "name": "Prairie_Poppy",
+    "label": "Prairie Poppy",
+    "count": 2
+   },
+   {
+    "name": "American_Ginseng",
+    "label": "American Ginseng",
+    "count": 2
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 5
+   },
+   {
+    "name": "saltpeter",
+    "label": "Saltpeter",
+    "count": 5
+   },
+   {
+    "name": "pyrolusite_ore",
+    "label": "Pyrolusite Ore",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "peyote",
+    "label": "peyote",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PANGTABOY NG HAYOP",
+  "category": "katutubo5",
+  "ingredients": [
+   {
+    "name": "horse_manure",
+    "label": "Horse Manure",
+    "count": 5
+   },
+   {
+    "name": "chili",
+    "label": "Sili",
+    "count": 5
+   },
+   {
+    "name": "Prairie_Poppy",
+    "label": "Prairie Poppy",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   }
+  ],
+  "reward": [
+   {
+    "name": "pangtaboy_hayop",
+    "label": "pangtaboy_hayop",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "KUTSILYONG BATO",
+  "category": "katutubo1",
+  "ingredients": [
+   {
+    "name": "rock",
+    "label": "Bato",
+    "count": 8
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 3
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 3
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "stone_knife",
+    "label": "stone_knife",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "HULMAHAN NG PANA",
+  "category": "katutubo1",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 20
+   },
+   {
+    "name": "rope",
+    "label": "Lubid",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 3
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "bow_jig",
+    "label": "bow_jig",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PANGHABI NG LUBID",
+  "category": "katutubo1",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 10
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 15
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 5
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 2
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 3
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "rope_spindle",
+    "label": "rope_spindle",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BUTONG PANG-UKIT",
+  "category": "katutubo1",
+  "ingredients": [
+   {
+    "name": "buto_ng_hayop",
+    "label": "Buto ng Hayop",
+    "count": 3
+   },
+   {
+    "name": "kuko_ng_hayop",
+    "label": "Kuko ng Hayop",
+    "count": 3
+   },
+   {
+    "name": "pangil_ng_hayop",
+    "label": "Pangil ng Hayop",
+    "count": 3
+   },
+   {
+    "name": "sungay_ng_hayop",
+    "label": "Sungay ng Hayop",
+    "count": 3
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 3
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 2
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 2
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "bone_chisel",
+    "label": "bone_chisel",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PANGKAYAS NG BALAT",
+  "category": "katutubo1",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 8
+   },
+   {
+    "name": "buto_ng_hayop",
+    "label": "Buto ng Hayop",
+    "count": 3
+   },
+   {
+    "name": "kuko_ng_hayop",
+    "label": "Kuko ng Hayop",
+    "count": 3
+   },
+   {
+    "name": "pangil_ng_hayop",
+    "label": "Pangil ng Hayop",
+    "count": 3
+   },
+   {
+    "name": "sungay_ng_hayop",
+    "label": "Sungay ng Hayop",
+    "count": 3
+   },
+   {
+    "name": "rope",
+    "label": "Lubid",
+    "count": 2
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 2
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "hide_scraper",
+    "label": "hide_scraper",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "SULO",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "cloth",
+    "label": "Cloth",
+    "count": 5
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Prosesong Langis",
+    "count": 1
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 3
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 3
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 5
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 3
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_MELEE_TORCH",
+    "label": "WEAPON_MELEE_TORCH",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "FISHING ROD",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "copper",
+    "label": "Tanso",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 5
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 5
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto_mabangis",
+    "label": "Dinurog na Buto ng Mabangis Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko_mabangis",
+    "label": "Dinurog na Kuko ng Mabangis Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil_mabangis",
+    "label": "Dinurog na Pangil ng Mabangis Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay_mabangis",
+    "label": "Dinurog na Sungay ng Mabangis Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 15
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_FISHINGROD",
+    "label": "WEAPON_FISHINGROD",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PANA",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 12
+   },
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 5
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 3
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 3
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 10
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 10
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_BOW",
+    "label": "WEAPON_BOW",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PINABUTING PANA",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 15
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 25
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 10
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 10
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 5
+   },
+   {
+    "name": "pulp",
+    "label": "Pulp",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 5
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 15
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 5
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "dinurog_na_buto_alamat",
+    "label": "Dinurog na Buto ng Alamat",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko_alamat",
+    "label": "Dinurog na Kuko ng Alamat",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil_alamat",
+    "label": "Dinurog na Pangil ng Alamat",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay_alamat",
+    "label": "Dinurog na Sungay ng Alamat",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 20
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_BOW_IMPROVED",
+    "label": "WEAPON_BOW_IMPROVED",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PINAKAPAL NA LUBID",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 5
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 15
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 15
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 5
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 10
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 10
+   },
+   {
+    "name": "mailap_na_sangkap",
+    "label": "Mailap na Sangkap",
+    "count": 2
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "dinurog_na_buto_mabangis",
+    "label": "Dinurog na Buto ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko_mabangis",
+    "label": "Dinurog na Kuko ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil_mabangis",
+    "label": "Dinurog na Pangil ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay_mabangis",
+    "label": "Dinurog na Sungay ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 15
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_LASSO_REINFORCED",
+    "label": "WEAPON_LASSO_REINFORCED",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "MACHETE",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 5
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 5
+   },
+   {
+    "name": "refined_silver",
+    "label": "Refined Silver",
+    "count": 5
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 15
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 5
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 3
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 3
+   },
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 10
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 10
+   },
+   {
+    "name": "pyrolusite_ore",
+    "label": "Pyrolusite Ore",
+    "count": 10
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay na Mabangis na Hayop",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 20
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_MELEE_MACHETE",
+    "label": "WEAPON_MELEE_MACHETE",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "CLEAVER",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 10
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 6
+   },
+   {
+    "name": "refined_copper",
+    "label": "Refined Copper",
+    "count": 6
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 20
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 5
+   },
+   {
+    "name": "nails",
+    "label": "Pako",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 4
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 4
+   },
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 5
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 5
+   },
+   {
+    "name": "pyrolusite_ore",
+    "label": "Pyrolusite Ore",
+    "count": 5
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay na Mabangis na Hayop",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 50
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_MELEE_CLEAVER",
+    "label": "WEAPON_MELEE_CLEAVER",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BINABATONG PALAKOL",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 15
+   },
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 30
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 3
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 5
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 5
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 5
+   },
+   {
+    "name": "refined_gold",
+    "label": "Refined Gold",
+    "count": 5
+   },
+   {
+    "name": "refined_diamond",
+    "label": "Refined Diamond",
+    "count": 5
+   },
+   {
+    "name": "refined_emerald",
+    "label": "Refined Emerald",
+    "count": 5
+   },
+   {
+    "name": "refined_ruby",
+    "label": "Refined Ruby",
+    "count": 5
+   },
+   {
+    "name": "refined_opal",
+    "label": "Refined Opal",
+    "count": 5
+   },
+   {
+    "name": "coal",
+    "label": "Uling",
+    "count": 10
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 10
+   },
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 10
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 10
+   },
+   {
+    "name": "pyrolusite_ore",
+    "label": "Pyrolusite Ore",
+    "count": 10
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 10
+   },
+   {
+    "name": "tinunaw_na_buto_alamat",
+    "label": "Tinunaw na Buto ng Alamat",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_alamat",
+    "label": "Tinunaw na Kuko ng Alamat",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_alamat",
+    "label": "Tinunaw na Pangil ng Alamat",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_alamat",
+    "label": "Tinunaw na Sungay na Alamat",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 100
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_MELEE_HATCHET_HUNTER",
+    "label": "WEAPON_MELEE_HATCHET_HUNTER",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BOLAS",
+  "category": "katutubo3",
+  "ingredients": [
+   {
+    "name": "panika",
+    "label": "Panika",
+    "count": 5
+   },
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 5
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 10
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 5
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 5
+   },
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 5
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 5
+   },
+   {
+    "name": "pyrolusite_ore",
+    "label": "Pyrolusite Ore",
+    "count": 5
+   },
+   {
+    "name": "maalamat_na_sangkap",
+    "label": "Maalamat na Sangkap",
+    "count": 5
+   },
+   {
+    "name": "tinunaw_na_buto_mabangis",
+    "label": "Tinunaw na Buto ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_kuko_mabangis",
+    "label": "Tinunaw na Kuko ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_pangil_mabangis",
+    "label": "Tinunaw na Pangil ng Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "tinunaw_na_sungay_mabangis",
+    "label": "Tinunaw na Sungay na Mabangis na Hayop",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 50
+   }
+  ],
+  "reward": [
+   {
+    "name": "WEAPON_THROWN_BOLAS",
+    "label": "WEAPON_THROWN_BOLAS",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PALASO",
+  "category": "katutubo2",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 3
+   },
+   {
+    "name": "feathers",
+    "label": "Feathers",
+    "count": 2
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 1
+   },
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 2
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 3
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammoarrownormal",
+    "label": "ammoarrownormal",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PALASONG MAY LASON",
+  "category": "katutubo2",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "feathers",
+    "label": "Balahibo",
+    "count": 3
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 2
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 2
+   },
+   {
+    "name": "refined_aluminum",
+    "label": "Refined Aluminum",
+    "count": 1
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 2
+   },
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 5
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 3
+   },
+   {
+    "name": "Snake_Poison",
+    "label": "Kamandag ng Ahas",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammoarrowpoison",
+    "label": "ammoarrowpoison",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "PALASONG UMAAPOY",
+  "category": "katutubo2",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "feathers",
+    "label": "Balahibo",
+    "count": 5
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 3
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 3
+   },
+   {
+    "name": "refined_aluminum",
+    "label": "Refined Aluminum",
+    "count": 3
+   },
+   {
+    "name": "prosesong_langis",
+    "label": "Processed Oil",
+    "count": 1
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 5
+   },
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 5
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 5
+   },
+   {
+    "name": "dinurog_na_buto_mabangis",
+    "label": "Dinurog na Buto ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_kuko_mabangis",
+    "label": "Dinurog na Kuko ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_pangil_mabangis",
+    "label": "Dinurog na Pangil ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "dinurog_na_sungay_mabangis",
+    "label": "Dinurog na Sungay ng Mabangis Hayop",
+    "count": 1
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammoarrowfire",
+    "label": "ammoarrowfire",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BALA NG BOLAS",
+  "category": "katutubo2",
+  "ingredients": [
+   {
+    "name": "refined_iron",
+    "label": "Refined Iron",
+    "count": 1
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 3
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 2
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 3
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 3
+   },
+   {
+    "name": "nitrite",
+    "label": "Nitrito",
+    "count": 5
+   },
+   {
+    "name": "granite",
+    "label": "Granite",
+    "count": 5
+   },
+   {
+    "name": "limestone",
+    "label": "Limestone",
+    "count": 5
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "ammobolla",
+    "label": "ammobolla",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BOWSTRING",
+  "category": "katutubo2",
+  "ingredients": [
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 3
+   },
+   {
+    "name": "rope",
+    "label": "Lubid",
+    "count": 3
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "resin",
+    "label": "Resin",
+    "count": 1
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 3
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "bowstring",
+    "label": "bowstring",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "BITAG NG ALIMANGO",
+  "category": "katutubo2",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 5
+   },
+   {
+    "name": "iron",
+    "label": "Bakal",
+    "count": 5
+   },
+   {
+    "name": "rope",
+    "label": "Rope",
+    "count": 2
+   },
+   {
+    "name": "fibers",
+    "label": "Hibla",
+    "count": 5
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 2
+   },
+   {
+    "name": "pangunahing_sangkap",
+    "label": "Pangunahing Sangkap",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 2
+   }
+  ],
+  "reward": [
+   {
+    "name": "trap_crab",
+    "label": "trap_crab",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "QUIVER SIDE",
+  "category": "katutubo4",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 15
+   },
+   {
+    "name": "feathers",
+    "label": "Balahibo",
+    "count": 5
+   },
+   {
+    "name": "rope",
+    "label": "Lubid",
+    "count": 3
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 5
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "Na1",
+    "label": "Na1",
+    "count": 1
+   }
+  ],
+  "desc": null
+ },
+ {
+  "name": "QUIVER BACK",
+  "category": "katutubo4",
+  "ingredients": [
+   {
+    "name": "wood",
+    "label": "Kahoy",
+    "count": 15
+   },
+   {
+    "name": "feathers",
+    "label": "Balahibo",
+    "count": 5
+   },
+   {
+    "name": "rope",
+    "label": "Lubid",
+    "count": 3
+   },
+   {
+    "name": "rubber",
+    "label": "Goma",
+    "count": 5
+   },
+   {
+    "name": "sandpaper",
+    "label": "Liha",
+    "count": 1
+   },
+   {
+    "name": "varnish",
+    "label": "Barnis",
+    "count": 1
+   },
+   {
+    "name": "sap",
+    "label": "Dagta",
+    "count": 5
+   },
+   {
+    "name": "leather",
+    "label": "Balat",
+    "count": 3
+   },
+   {
+    "name": "pambihirang_sangkap",
+    "label": "Pambihirang Sangkap",
+    "count": 3
+   },
+   {
+    "name": "dinurog_na_buto",
+    "label": "Dinurog na Buto",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_kuko",
+    "label": "Dinurog na Kuko",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_pangil",
+    "label": "Dinurog na Pangil",
+    "count": 2
+   },
+   {
+    "name": "dinurog_na_sungay",
+    "label": "Dinurog na Sungay",
+    "count": 2
+   },
+   {
+    "name": "resiklong_materyales",
+    "label": "Resiklong Materyales",
+    "count": 5
+   }
+  ],
+  "reward": [
+   {
+    "name": "Na2",
+    "label": "Na2",
+    "count": 1
+   }
+  ],
+  "desc": null
+ }
+]

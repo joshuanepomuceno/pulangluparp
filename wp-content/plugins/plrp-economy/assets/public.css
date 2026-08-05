@@ -1,0 +1,60 @@
+.plrp-price-list {
+	margin: 1.5em 0;
+}
+.plrp-price-list .plrp-price-list-controls {
+	margin-bottom: 1em;
+}
+.plrp-price-list .plrp-search {
+	width: 100%;
+	max-width: 360px;
+	padding: 0.5em 0.75em;
+	box-sizing: border-box;
+}
+.plrp-price-list .plrp-tabs {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5em;
+	margin-bottom: 1.25em;
+}
+.plrp-price-list .plrp-tab {
+	background: transparent;
+	border: 1px solid currentColor;
+	border-radius: 999px;
+	padding: 0.35em 1em;
+	cursor: pointer;
+	font-size: 0.9em;
+	opacity: 0.7;
+}
+.plrp-price-list .plrp-tab.is-active {
+	opacity: 1;
+	font-weight: 600;
+}
+.plrp-price-list .plrp-profession-title {
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+.plrp-price-list table.plrp-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 1em;
+}
+.plrp-price-list table.plrp-table th,
+.plrp-price-list table.plrp-table td {
+	text-align: left;
+	padding: 0.6em 0.75em;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	vertical-align: top;
+}
+.plrp-price-list ul.plrp-ingredients {
+	margin: 0;
+	padding-left: 1.1em;
+	font-size: 0.9em;
+}
+.plrp-price-list td.plrp-price {
+	white-space: nowrap;
+	font-weight: 600;
+}
+.plrp-empty {
+	opacity: 0.7;
+	font-style: italic;
+}

@@ -1,0 +1,149 @@
+/* Pulang Lupa Crafting Tracker */
+.plct {
+  --plct-bg: #1d1611;
+  --plct-panel: #2a211a;
+  --plct-panel-2: #342a21;
+  --plct-border: #5a4632;
+  --plct-ink: #e8d9c0;
+  --plct-ink-dim: #b09b7d;
+  --plct-red: #a83232;
+  --plct-red-2: #c74b3c;
+  --plct-gold: #c9a54e;
+  --plct-green: #6e9c5c;
+  font-family: Georgia, 'Times New Roman', serif;
+  color: var(--plct-ink);
+  background: var(--plct-bg);
+  border: 1px solid var(--plct-border);
+  border-radius: 10px;
+  padding: 18px;
+  line-height: 1.45;
+  box-sizing: border-box;
+}
+.plct *, .plct *::before, .plct *::after { box-sizing: border-box; }
+.plct button { font-family: inherit; cursor: pointer; }
+
+.plct-loading { padding: 40px; text-align: center; color: var(--plct-ink-dim); font-style: italic; }
+
+.plct-header { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 14px; border-bottom: 2px solid var(--plct-border); padding-bottom: 10px; }
+.plct-title { font-size: 1.5em; font-weight: bold; color: var(--plct-gold); letter-spacing: 1px; margin: 0; }
+.plct-subtitle { color: var(--plct-ink-dim); font-style: italic; font-size: .9em; }
+
+/* Job/login status banner */
+.plct-status {
+  font-size: .85em;
+  padding: 8px 14px;
+  border-radius: 6px;
+  margin-bottom: 14px;
+  border-left: 3px solid var(--plct-border);
+  background: var(--plct-panel);
+  color: var(--plct-ink-dim);
+}
+.plct-status a { color: var(--plct-gold); }
+.plct-status-job { border-left-color: var(--plct-green); color: var(--plct-ink); }
+.plct-status-job strong { color: var(--plct-gold); }
+.plct-status-admin { border-left-color: var(--plct-gold); color: var(--plct-ink); }
+.plct-status-guest { border-left-color: var(--plct-red-2); }
+
+/* Tabs */
+.plct-tabs { display: flex; gap: 8px; margin-bottom: 14px; flex-wrap: wrap; }
+.plct-tab {
+  background: var(--plct-panel); color: var(--plct-ink); border: 1px solid var(--plct-border);
+  padding: 8px 18px; border-radius: 6px; font-size: 1em;
+}
+.plct-tab.active { background: var(--plct-red); border-color: var(--plct-red-2); color: #fff; font-weight: bold; }
+.plct-tab .plct-badge {
+  background: var(--plct-gold); color: #2a211a; border-radius: 10px; padding: 0 8px;
+  font-size: .8em; font-weight: bold; margin-left: 6px;
+}
+
+/* Toolbar */
+.plct-toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+.plct-search {
+  flex: 1 1 220px; background: var(--plct-panel); border: 1px solid var(--plct-border);
+  color: var(--plct-ink); padding: 9px 12px; border-radius: 6px; font-family: inherit; font-size: 1em;
+}
+.plct-search::placeholder { color: var(--plct-ink-dim); }
+.plct-search:focus { outline: none; border-color: var(--plct-gold); }
+
+.plct-cats { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+.plct-cat {
+  background: var(--plct-panel); border: 1px solid var(--plct-border); color: var(--plct-ink-dim);
+  padding: 4px 12px; border-radius: 14px; font-size: .85em;
+}
+.plct-cat.active { background: var(--plct-gold); color: #241b12; border-color: var(--plct-gold); font-weight: bold; }
+
+/* Recipe grid */
+.plct-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 12px; }
+.plct-card {
+  background: var(--plct-panel); border: 1px solid var(--plct-border); border-radius: 8px;
+  padding: 12px 14px; display: flex; flex-direction: column; gap: 8px;
+}
+.plct-card-head { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
+.plct-card-name { font-weight: bold; font-size: 1.05em; color: var(--plct-gold); }
+.plct-card-cat { font-size: .75em; color: var(--plct-ink-dim); text-transform: uppercase; letter-spacing: 1px; }
+.plct-ing-list { margin: 0; padding: 0; list-style: none; font-size: .92em; }
+.plct-ing-list li { display: flex; justify-content: space-between; gap: 8px; padding: 2px 0; border-bottom: 1px dotted rgba(90,70,50,.4); }
+.plct-ing-list li:last-child { border-bottom: none; }
+.plct-ing-count { color: var(--plct-ink-dim); white-space: nowrap; }
+.plct-track-btn {
+  margin-top: auto; background: var(--plct-red); color: #fff; border: 1px solid var(--plct-red-2);
+  padding: 7px 12px; border-radius: 6px; font-size: .95em; font-weight: bold;
+}
+.plct-track-btn:hover { background: var(--plct-red-2); }
+.plct-track-btn.tracked { background: var(--plct-panel-2); border-color: var(--plct-border); color: var(--plct-ink-dim); font-weight: normal; }
+.plct-empty { padding: 30px; text-align: center; color: var(--plct-ink-dim); font-style: italic; grid-column: 1 / -1; }
+
+/* Tracker panel */
+.plct-overall { background: var(--plct-panel); border: 1px solid var(--plct-border); border-radius: 8px; padding: 12px 14px; margin-bottom: 14px; }
+.plct-overall-row { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+.plct-bar { background: #14100c; border: 1px solid var(--plct-border); border-radius: 6px; height: 14px; overflow: hidden; margin-top: 8px; }
+.plct-bar-fill { height: 100%; background: linear-gradient(90deg, var(--plct-red), var(--plct-gold)); transition: width .25s; }
+.plct-bar-fill.done { background: var(--plct-green); }
+
+.plct-tracked { display: flex; flex-direction: column; gap: 12px; }
+.plct-titem { background: var(--plct-panel); border: 1px solid var(--plct-border); border-radius: 8px; padding: 12px 14px; }
+.plct-titem.done { border-color: var(--plct-green); }
+.plct-titem-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.plct-titem-name { font-weight: bold; color: var(--plct-gold); font-size: 1.05em; }
+.plct-titem-name .plct-done-tag { color: var(--plct-green); font-size: .85em; margin-left: 8px; }
+.plct-titem-actions { display: flex; align-items: center; gap: 8px; }
+.plct-qty { display: flex; align-items: center; gap: 4px; font-size: .9em; color: var(--plct-ink-dim); }
+.plct-qty button {
+  background: var(--plct-panel-2); border: 1px solid var(--plct-border); color: var(--plct-ink);
+  width: 24px; height: 24px; border-radius: 5px; line-height: 1; font-size: 1em; padding: 0;
+}
+.plct-remove { background: none; border: none; color: var(--plct-ink-dim); font-size: 1.2em; padding: 2px 6px; }
+.plct-remove:hover { color: var(--plct-red-2); }
+
+.plct-check-list { margin: 10px 0 0; padding: 0; list-style: none; }
+.plct-check-list li { display: flex; align-items: center; gap: 10px; padding: 5px 0; border-bottom: 1px dotted rgba(90,70,50,.4); }
+.plct-check-list li:last-child { border-bottom: none; }
+.plct-check-list li.have .plct-ing-name { color: var(--plct-green); text-decoration: line-through; }
+.plct-step { display: flex; align-items: center; gap: 5px; margin-left: auto; }
+.plct-step button {
+  background: var(--plct-panel-2); border: 1px solid var(--plct-border); color: var(--plct-ink);
+  width: 26px; height: 26px; border-radius: 5px; font-size: 1em; line-height: 1; padding: 0;
+}
+.plct-step button:disabled { opacity: .35; cursor: default; }
+.plct-step-count { min-width: 58px; text-align: center; font-variant-numeric: tabular-nums; font-size: .95em; }
+.plct-check-toggle { width: 18px; height: 18px; accent-color: var(--plct-green); cursor: pointer; flex-shrink: 0; }
+
+/* Shopping list */
+.plct-shop { background: var(--plct-panel); border: 1px solid var(--plct-border); border-radius: 8px; padding: 12px 14px; }
+.plct-shop h3 { margin: 0 0 8px; color: var(--plct-gold); font-size: 1.1em; }
+.plct-shop-list { margin: 0; padding: 0; list-style: none; columns: 2; column-gap: 24px; }
+.plct-shop-list li { display: flex; justify-content: space-between; gap: 8px; padding: 3px 0; break-inside: avoid; font-size: .95em; }
+.plct-shop-list li.have { color: var(--plct-ink-dim); }
+.plct-shop-list li.have .plct-shop-need { color: var(--plct-green); }
+.plct-shop-need { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.plct-shop-empty { color: var(--plct-ink-dim); font-style: italic; }
+.plct-clear-btn {
+  background: none; border: 1px solid var(--plct-border); color: var(--plct-ink-dim);
+  padding: 5px 12px; border-radius: 6px; font-size: .85em;
+}
+.plct-clear-btn:hover { border-color: var(--plct-red-2); color: var(--plct-red-2); }
+
+@media (max-width: 560px) {
+  .plct-shop-list { columns: 1; }
+  .plct { padding: 12px; }
+}

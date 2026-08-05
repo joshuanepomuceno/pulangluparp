@@ -1,0 +1,417 @@
+/* Pulang Lupa Job Portal — matches the site's parchment/leather palette */
+.pljr-portal {
+  --pljr-black: #0d0d0d;
+  --pljr-dark: #181818;
+  --pljr-dark-red: #6B1010;
+  --pljr-red: #8B1A1A;
+  --pljr-red-light: #C0392B;
+  --pljr-gold: #C9A84C;
+  --pljr-gold-light: #E8C96A;
+  --pljr-text: #E8DCC8;
+  --pljr-text-muted: #9A8A72;
+  --pljr-border: rgba(201,168,76,0.25);
+  max-width: 680px;
+  margin: 0 auto;
+  /* Segoe UI / Arial as final fallbacks so glyphs the display fonts lack (e.g. the ₱ peso sign) still render correctly */
+  font-family: 'Roboto Slab', Georgia, 'Segoe UI', Arial, serif;
+  color: var(--pljr-text);
+}
+.pljr-portal.pljr-wide { max-width: 980px; }
+
+.pljr-panel {
+  background: linear-gradient(180deg, #191413, #141110);
+  border: 1px solid var(--pljr-border);
+  border-radius: 10px;
+  padding: 2rem 2.25rem;
+}
+.pljr-panel h2 {
+  font-family: 'Cinzel', serif;
+  color: var(--pljr-gold);
+  font-size: 1.4rem;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.5rem;
+}
+.pljr-panel h3 {
+  font-family: 'Cinzel', serif;
+  color: var(--pljr-gold-light);
+  font-size: 0.92rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin: 1.75rem 0 0.9rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--pljr-border);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.pljr-panel h3:first-of-type { border-top: none; padding-top: 0; margin-top: 1.25rem; }
+.pljr-sub { color: var(--pljr-text-muted); font-size: 0.92rem; margin-bottom: 1.25rem; }
+.pljr-card-icon { font-size: 1.05em; filter: saturate(1.1); }
+
+.pljr-head-row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+.pljr-head-row h2 { margin: 0; }
+
+/* ── Head dashboard shell ─────────────────────────────── */
+.pljr-dash-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+.pljr-dash-head h2 {
+  font-family: 'Cinzel', serif;
+  color: var(--pljr-gold);
+  font-size: 1.5rem;
+  letter-spacing: 0.03em;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+/* ── Tabs (Roster / Duty / Payroll) ──────────────────────
+   Each tab is a full page navigation (?ptab=...), not a JS toggle — the
+   server only queries/renders the active tab's data, which keeps things
+   fast as the roster and duty logs grow. */
+.pljr-tabs {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid var(--pljr-border);
+  padding-bottom: 0;
+}
+.pljr-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: 'Cinzel', serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--pljr-text-muted);
+  text-decoration: none;
+  padding: 0.65rem 1rem;
+  border-radius: 6px 6px 0 0;
+  border: 1px solid transparent;
+  border-bottom: none;
+  transform: translateY(1px);
+  transition: all 0.2s;
+}
+.pljr-tab:hover { color: var(--pljr-text); background: rgba(255,255,255,0.03); }
+.pljr-tab.active {
+  color: var(--pljr-gold-light);
+  background: linear-gradient(180deg, #191413, #141110);
+  border-color: var(--pljr-border);
+}
+.pljr-tab .pljr-count { background: rgba(255,255,255,0.1); }
+.pljr-tab.active .pljr-count { background: rgba(201,168,76,0.18); color: var(--pljr-gold-light); }
+
+.pljr-subhead {
+  font-family: 'Cinzel', serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--pljr-text-muted);
+  margin: 1.5rem 0 0.75rem;
+}
+.pljr-subhead:first-of-type { margin-top: 0.5rem; }
+
+.pljr-card {
+  background: linear-gradient(180deg, #191413, #141110);
+  border: 1px solid var(--pljr-border);
+  border-radius: 10px;
+  padding: 1.5rem 1.65rem;
+}
+.pljr-card-wide { grid-column: 1 / -1; }
+.pljr-card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.1rem;
+}
+.pljr-card-head h3 {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-family: 'Cinzel', serif;
+  color: var(--pljr-gold-light);
+  font-size: 0.92rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.pljr-count {
+  font-family: 'Roboto Slab', serif;
+  font-size: 0.72rem;
+  color: var(--pljr-text-muted);
+  background: rgba(255,255,255,0.06);
+  border-radius: 999px;
+  padding: 0.1rem 0.55rem;
+}
+
+.pljr-form { display: flex; flex-direction: column; gap: 0.9rem; margin-top: 0.5rem; }
+.pljr-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  color: var(--pljr-text-muted);
+}
+.pljr-form input {
+  font-family: 'Roboto Slab', serif;
+  font-size: 0.95rem;
+  color: var(--pljr-text);
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--pljr-border);
+  border-radius: 5px;
+  padding: 0.6rem 0.75rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.pljr-form input:focus { border-color: var(--pljr-gold); }
+
+/* Horizontal variant used inside the "add member" disclosure */
+.pljr-form-row { flex-direction: row; flex-wrap: wrap; align-items: flex-end; gap: 0.75rem; }
+.pljr-form-row label { flex: 1 1 140px; }
+.pljr-form-row .pljr-btn { align-self: flex-end; }
+
+/* Collapsible "add member" form */
+.pljr-add-details { margin-top: 1.25rem; padding-top: 1.25rem; border-top: 1px solid var(--pljr-border); }
+.pljr-add-details summary {
+  cursor: pointer;
+  list-style: none;
+  font-family: 'Cinzel', serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--pljr-gold);
+}
+.pljr-add-details summary::-webkit-details-marker { display: none; }
+.pljr-add-details summary:hover { color: var(--pljr-gold-light); }
+.pljr-add-details[open] summary { margin-bottom: 0.75rem; }
+
+.pljr-btn, .pljr-btn-sm {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  border: 2px solid var(--pljr-dark-red);
+  background: var(--pljr-red);
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.pljr-btn { font-size: 0.8rem; padding: 0.7rem 1.5rem; align-self: flex-start; }
+.pljr-btn:hover { background: var(--pljr-red-light); border-color: var(--pljr-red-light); color: #fff; transform: translateY(-1px); }
+
+.pljr-btn-ghost { background: transparent; border-color: var(--pljr-border); color: var(--pljr-gold); }
+.pljr-btn-ghost:hover { background: rgba(201,168,76,0.08); border-color: var(--pljr-gold); color: var(--pljr-gold-light); }
+
+.pljr-btn-sm { font-size: 0.65rem; padding: 0.4rem 0.75rem; border-width: 1px; }
+.pljr-btn-danger { background: transparent; border-color: rgba(192,57,43,0.5); color: var(--pljr-red-light); }
+.pljr-btn-danger:hover { background: rgba(192,57,43,0.15); border-color: var(--pljr-red-light); }
+
+.pljr-error {
+  color: #fff;
+  background: rgba(139,26,26,0.25);
+  border-left: 3px solid var(--pljr-red);
+  padding: 0.6rem 0.9rem;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.88rem;
+  margin-bottom: 1rem;
+}
+.pljr-ok {
+  color: #fff;
+  background: rgba(78,138,95,0.2);
+  border-left: 3px solid #4E8A5F;
+  padding: 0.6rem 0.9rem;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.88rem;
+  margin-bottom: 1rem;
+}
+.pljr-empty { color: var(--pljr-text-muted); font-style: italic; font-size: 0.9rem; }
+
+.pljr-reveal {
+  background: rgba(201,168,76,0.08);
+  border: 1px solid var(--pljr-gold);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+}
+.pljr-reveal strong { color: var(--pljr-gold-light); font-size: 0.85rem; }
+.pljr-reveal-row { display: flex; justify-content: space-between; gap: 1rem; margin-top: 0.5rem; font-size: 0.9rem; }
+.pljr-reveal-row span { color: var(--pljr-text-muted); }
+.pljr-reveal-row code {
+  font-family: 'Courier New', monospace;
+  background: rgba(0,0,0,0.4);
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  color: var(--pljr-gold-light);
+}
+.pljr-warn { color: var(--pljr-text-muted); font-size: 0.78rem; font-style: italic; margin: 0.75rem 0 0; }
+
+/* ── Roster ───────────────────────────────────────────── */
+.pljr-roster { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+.pljr-roster-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.6rem 1rem;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--pljr-border);
+  border-radius: 6px;
+  padding: 0.65rem 0.9rem;
+}
+.pljr-roster-id { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
+.pljr-roster-name { font-weight: 600; color: var(--pljr-text); overflow-wrap: anywhere; }
+.pljr-roster-login { color: var(--pljr-text-muted); font-size: 0.78rem; }
+.pljr-roster-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; flex-shrink: 0; }
+.pljr-inline-form { display: inline; }
+
+/* ── Duty status + clock in/out ──────────────────────────*/
+.pljr-duty-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.88rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  margin-bottom: 0.75rem;
+}
+.pljr-duty-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+.pljr-duty-on { background: rgba(78,138,95,0.18); color: #9fd6ac; }
+.pljr-duty-on .pljr-duty-dot { background: #4E8A5F; box-shadow: 0 0 6px #4E8A5F; }
+.pljr-duty-off { background: rgba(255,255,255,0.05); color: var(--pljr-text-muted); }
+.pljr-duty-off .pljr-duty-dot { background: var(--pljr-text-muted); }
+.pljr-duty-status + .pljr-inline-form { display: block; margin-bottom: 1rem; }
+
+/* ── Discord link ─────────────────────────────────────── */
+.pljr-discord-link { margin-bottom: 1rem; }
+.pljr-discord-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.88rem;
+  color: var(--pljr-text-muted);
+  margin-right: 0.75rem;
+}
+.pljr-discord-link .pljr-inline-form { display: inline; }
+
+/* ── Date range filter ────────────────────────────────── */
+.pljr-range-form {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+.pljr-range-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  font-size: 0.72rem;
+  color: var(--pljr-text-muted);
+  text-transform: none;
+}
+.pljr-range-form input[type="date"] {
+  font-family: 'Roboto Slab', serif;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--pljr-border);
+  border-radius: 5px;
+  padding: 0.4rem 0.55rem;
+  color: var(--pljr-text);
+  color-scheme: dark;
+}
+
+/* ── Small log tables (recent sessions) ──────────────────*/
+.pljr-log-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+  margin-top: 0.5rem;
+}
+.pljr-log-table th {
+  text-align: left;
+  font-family: 'Cinzel', serif;
+  font-size: 0.64rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--pljr-text-muted);
+  padding: 0.4rem 0.5rem;
+  border-bottom: 1px solid var(--pljr-border);
+  white-space: nowrap;
+}
+.pljr-log-table td {
+  padding: 0.42rem 0.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  color: var(--pljr-text);
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+/* ── Payroll list (replaces a cramped <table>) ───────────*/
+.pljr-pay-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.6rem; }
+.pljr-pay-row {
+  display: grid;
+  grid-template-columns: 1.6fr 0.9fr 1.5fr 1.2fr;
+  align-items: center;
+  gap: 1rem;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--pljr-border);
+  border-radius: 8px;
+  padding: 0.85rem 1.1rem;
+}
+.pljr-pay-cell { display: flex; flex-direction: column; gap: 0.3rem; min-width: 0; }
+.pljr-pay-label {
+  font-family: 'Cinzel', serif;
+  font-size: 0.6rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--pljr-text-muted);
+}
+.pljr-pay-value { font-size: 0.92rem; color: var(--pljr-text); }
+.pljr-pay-name { font-weight: 600; color: var(--pljr-text); overflow-wrap: anywhere; }
+.pljr-pay-salary { font-family: 'Cinzel', serif; font-weight: 700; color: var(--pljr-gold-light); font-size: 1rem; }
+.pljr-pay-id { gap: 0.1rem; }
+
+/* Inline rate-setting form inside a payroll cell */
+.pljr-rate-form { display: flex; align-items: center; gap: 0.4rem; }
+.pljr-rate-form input[type="number"] {
+  width: 5rem;
+  font-family: 'Roboto Slab', serif;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--pljr-border);
+  border-radius: 5px;
+  padding: 0.35rem 0.5rem;
+  color: var(--pljr-text);
+}
+
+/* ── Responsive ───────────────────────────────────────── */
+@media (max-width: 640px) {
+  .pljr-pay-row { grid-template-columns: 1fr 1fr; row-gap: 0.75rem; }
+  .pljr-pay-id { grid-column: 1 / -1; }
+}
+
+@media (max-width: 560px) {
+  .pljr-panel, .pljr-card { padding: 1.5rem 1.25rem; }
+  .pljr-roster-row { flex-direction: column; align-items: flex-start; }
+  .pljr-form-row { flex-direction: column; align-items: stretch; }
+  .pljr-form-row .pljr-btn { align-self: flex-start; }
+  .pljr-tabs { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .pljr-tab { flex-shrink: 0; }
+}

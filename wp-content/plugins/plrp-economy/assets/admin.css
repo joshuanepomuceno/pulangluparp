@@ -1,0 +1,26 @@
+.plrp-admin .plrp-columns {
+	display: flex;
+	gap: 24px;
+	align-items: flex-start;
+}
+.plrp-admin .plrp-col-main {
+	flex: 1 1 auto;
+}
+.plrp-admin .plrp-col-side {
+	flex: 0 0 300px;
+}
+.plrp-admin .plrp-inline-form {
+	display: inline-block;
+	margin: 0;
+}
+.plrp-admin table.widefat input[type="text"],
+.plrp-admin table.widefat input[type="number"] {
+	width: 100%;
+	max-width: 220px;
+}
+.plrp-admin .plrp-search-form {
+	margin-bottom: 12px;
+}
+.plrp-admin #plrp-ingredients-table select {
+	min-width: 240px;
+}

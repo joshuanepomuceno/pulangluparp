@@ -1,0 +1,27 @@
+---
+# cPanel Git Version Control deployment script.
+# Runs on the server, with the repo root as the working directory, whenever
+# you click "Deploy HEAD Commit" in cPanel (or when Git::deploy is called via
+# the API — see the GitHub Actions workflow that triggers this on push).
+#
+# NOTE: $DEPLOYPATH below assumes public_html is this account's live docroot.
+# If this site lives in an addon-domain subfolder instead, change it to
+# $HOME/public_html/your-subfolder before relying on this.
+deployment:
+  tasks:
+    - export DEPLOYPATH=$HOME/public_html
+    - /bin/mkdir -p $DEPLOYPATH/wp-content/themes
+    - /bin/mkdir -p $DEPLOYPATH/wp-content/plugins
+    - >-
+      /usr/bin/rsync -rvc --delete --exclude='.git'
+      --exclude='twentytwentythree' --exclude='twentytwentyfour' --exclude='twentytwentyfive'
+      wp-content/themes/ $DEPLOYPATH/wp-content/themes/
+    - >-
+      /usr/bin/rsync -rvc --delete --exclude='.git'
+      --exclude='akismet' --exclude='hello.php'
+      wp-content/plugins/ $DEPLOYPATH/wp-content/plugins/
+    - >-
+      if [ -d wp-content/mu-plugins ]; then
+        /bin/mkdir -p $DEPLOYPATH/wp-content/mu-plugins &&
+        /usr/bin/rsync -rvc --delete --exclude='.git' wp-content/mu-plugins/ $DEPLOYPATH/wp-content/mu-plugins/;
+      fi

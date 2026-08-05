@@ -1,0 +1,39 @@
+# This repo tracks only wp-content/{themes,plugins,mu-plugins} — WordPress core,
+# wp-config.php (DB credentials), uploads, and caches are deliberately excluded
+# and stay managed by WP admin / the server directly.
+
+# Ignore everything by default
+/*
+
+# Un-ignore repo-management files at the root and wp-content itself
+!/.gitignore
+!/.gitattributes
+!/.cpanel.yml
+!/.github
+!/wp-content
+
+# Ignore everything inside wp-content by default
+/wp-content/*
+
+# Whitelist only the folders we actually hand-edit
+!/wp-content/themes
+!/wp-content/plugins
+!/wp-content/mu-plugins
+
+# WordPress-bundled plugins managed via WP admin, not hand-edited — exclude
+/wp-content/plugins/akismet
+/wp-content/plugins/hello.php
+
+# WordPress-bundled default themes — not custom, managed via WP admin
+/wp-content/themes/twentytwentythree
+/wp-content/themes/twentytwentyfour
+/wp-content/themes/twentytwentyfive
+
+# Backup archives — not source, shouldn't be versioned as binary blobs
+*.zip
+
+# Always exclude these even inside tracked folders
+**/.DS_Store
+**/Thumbs.db
+**/node_modules/
+*.log
