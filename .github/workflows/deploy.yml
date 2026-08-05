@@ -3,8 +3,15 @@ name: Deploy to cPanel (FTP)
 # GoDaddy's cPanel Git module requires shell access to be reachable via its
 # external API, which this account doesn't have — see .cpanel.yml for the
 # manual "Update from Remote" / "Deploy HEAD Commit" fallback in the cPanel
-# UI. This workflow deploys straight over FTP/FTPS instead, which works
+# UI. This workflow deploys straight over FTP instead, which works
 # regardless of that restriction.
+#
+# Plain FTP, not FTPS: explicit FTPS from GitHub Actions consistently hit
+# "530 Login authentication failed" against this server even with verified-
+# correct credentials (a plain FTP client connected fine), most likely a TLS
+# certificate hostname mismatch on the shared-hosting server. This means the
+# FTP password travels unencrypted during deploys — acceptable here since
+# only theme/plugin code moves over this channel, but worth knowing.
 
 on:
   push:
@@ -22,7 +29,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
+          protocol: ftp
           local-dir: ./wp-content/themes/
           server-dir: ${{ secrets.FTP_REMOTE_ROOT }}/wp-content/themes/
           exclude: |
@@ -37,7 +44,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
+          protocol: ftp
           local-dir: ./wp-content/plugins/
           server-dir: ${{ secrets.FTP_REMOTE_ROOT }}/wp-content/plugins/
           exclude: |
