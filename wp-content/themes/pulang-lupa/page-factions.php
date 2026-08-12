@@ -48,6 +48,8 @@ $fx_chapters = [
                         'Cultural Organizations', 'Indigenous Tribes',
                     ]],
                     ['note', "These examples are not exhaustive. Players are encouraged to create unique organizations that fit the setting and are approved by Management."],
+                    ['p', "Players are allowed to join multiple factions, and doing so is an acknowledgement that any in-character consequences are solely their responsibility and admin intervention would always be situational."],
+                    ['p', "Players are also reminded not to involve other factions they belong to if an RP was initiated toward another faction they belong to — this is a violation of the Faction Code. For example: a player is a member of Faction A and Faction B. If an RP was initiated toward Faction A, the player is not allowed to involve Faction B in the RP unless a separate In-Character RP was initiated properly. Players with multiple faction affiliations may be subject to review in certain cases; a ticket or review does not necessarily mean a player is in trouble, and may simply be requested for clarification or to better understand the situation."],
                 ],
             ],
             [
@@ -165,7 +167,7 @@ $fx_chapters = [
                     ['p', "Characters may leave an organization at any time through appropriate in-character roleplay. Likewise, organizations may remove members in accordance with their internal rules and roleplay."],
                     ['p', "Resignations, expulsions, retirements, and departures should be treated as meaningful character moments rather than simple administrative actions whenever possible."],
                     ['p', "If an organization becomes inactive, loses its leadership without succession, or voluntarily disbands, Management may revoke its official status."],
-                    ['note', "Former members of a dissolved organization may create or join another organization, subject to any applicable cooldowns or requirements established by Management. File a ticket for further assistance."],
+                    ['note', "Former members of a dissolved organization may create or join another organization, provided they meet the required 14-day OOC cooldown. This cooldown applies to all players, regardless of whether they are joining an organization for the first time or transitioning from a previous organization. File a ticket if further assistance is needed."],
                 ],
             ],
         ],

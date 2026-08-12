@@ -10,7 +10,7 @@
  *
  * Block types (see plrp_donation_block):
  *   ['p', 'text']  ['lead', 'text']  ['h', 'sub-heading']
- *   ['note', 'call-out text']
+ *   ['sub', 'Title', 'desc']  ['note', 'call-out text']
  *   ['list', 'Intro:', 'must|mustnot|neutral', [items…]]
  */
 get_header();
@@ -62,7 +62,12 @@ $don_chapters = [
                         "Preferential treatment from staff.",
                         "Guaranteed roleplay outcomes or positions.",
                     ]],
-                    ['note', "Every player is expected to earn their reputation, influence, businesses, and accomplishments through meaningful roleplay, regardless of supporter status."],
+                    ['p', "In line with this rule, players who donated in-character weapon props are subject to these limitations:"],
+                    ['sub', 'Weapons Available Through Crafting', "If a weapon skin or prop is donated to be made available through the server's crafting system, it may be used in PvP. Since the weapon can be legitimately obtained through crafting, stealing, or looting, it is considered a regular PvP-eligible weapon."],
+                    ['sub', 'RP-Only Weapons', "If a weapon skin or prop is donated solely for roleplay purposes, it may not be used in PvP. These weapons are intended for display or RP purposes only and cannot be used as combat weapons."],
+                    ['sub', 'Exclusive PvP Weapons', "An exclusive weapon may be approved for PvP use if it is produced and obtained through a designated whitelist job responsible for crafting or supplying the weapon, such as an Armero or Katutubo."],
+                    ['p', "Donating a weapon skin does not automatically grant the donor a spawned PvP-ready version of the weapon. The weapon must still be obtained through proper roleplay and the designated crafting or purchasing process."],
+                    ['note', "While the weapon may be exclusively sold only to the donor and their approved players, it remains subject to normal RP risks. If the weapon is used in PvP, it may be taken from the player. Donors should understand and accept this risk before choosing to use the weapon in PvP."],
                 ],
             ],
             [
@@ -167,6 +172,12 @@ function plrp_donation_block( $block ) {
             break;
         case 'h':
             echo '<h4 class="rule-subhead">' . esc_html( $block[1] ) . '</h4>';
+            break;
+        case 'sub':
+            echo '<div class="rule-subcard">';
+            echo '<span class="rule-subcard-title">' . esc_html( $block[1] ) . '</span>';
+            echo '<p>' . esc_html( $block[2] ) . '</p>';
+            echo '</div>';
             break;
         case 'note':
             echo '<div class="rule-note"><span class="rule-note-icon" aria-hidden="true">!</span><p>' . esc_html( $block[1] ) . '</p></div>';

@@ -397,6 +397,10 @@ $plrp_chapters = [
                         'Transfer knowledge between your own characters.',
                     ]],
                     ['note', 'Metagaming, whether intentional or accidental, damages immersion and may result in administrative action.'],
+                    ['h', 'Voice Recognition & Disguises'],
+                    ['p', 'You may recognize another character by their voice only when no reasonable effort has been made to conceal their identity. If a character is wearing a mask, face paint, bandana, large hat, or any other significant form of disguise, the disguise must be respected and the character should not be identified through voice, regardless of any OOC knowledge of the player.'],
+                    ['p', 'A significant and deliberate effort to alter or conceal one\'s voice, including the use of realistic voice changers or voice modulation, may also be considered part of the disguise when used alongside another layer of physical disguise. The voice alteration should be reasonably convincing and consistent with the character\'s attempt to conceal their identity.'],
+                    ['p', 'Players who choose to disguise their identity should still leave reasonable traces or clues of their true identity that other players may discover through roleplay. These clues are not required to be obvious, nor are players obligated to reveal them, but they should be properly roleplayed to allow others the opportunity to investigate, identify, and develop further RP from the disguise.'],
                 ],
             ],
             [
@@ -625,8 +629,52 @@ $plrp_chapters = [
                         'Provoke another player solely to create a new excuse for violence.',
                         'Resume combat after respawning.',
                     ]],
-                    ['p', 'Conflict may only continue if new roleplay creates a separate and legitimate in-character reason for further escalation.'],
-                    ['note', 'Every conflict should have consequences. Allow stories to evolve instead of repeating the same encounter.'],
+                    ['p', 'Conflict may still continue in RP through different means. Your character may not use the previous conflict as personal justification to initiate another violent confrontation. However, the actions and consequences of the original incident may continue through separate roleplay.'],
+                    ['list', 'Allowed:', 'must', [
+                        'You are downed during a brawl, receive medical treatment, and remember who attacked you. You may discuss the incident, report it, or allow it to influence your character\'s future roleplay.',
+                        'The person responsible for your injuries may still face consequences through law enforcement, witnesses, medical reports, or other legitimate roleplay.',
+                    ]],
+                    ['list', 'Not Allowed:', 'mustnot', [
+                        'You are treated by a doctor, remember who attacked you, and immediately seek them out to start another fight solely because of the previous incident.',
+                        'Using the incident as an excuse to repeatedly restart the same conflict after it has already concluded.',
+                    ]],
+                    ['note', 'Every conflict should have consequences. Allow stories to evolve instead of repeating the same encounter. This is to provide cooldown towards PvP and prevent unnecessary revenge killing that may lead to unintended violations. Additionally, this is to give way and respect the Medical RP that would be initiated by the doctors who will treat you.'],
+                    ['h', 'Respawning ("See the Light")'],
+                    ['p', 'If a player decides to See the Light (the in-game respawn mechanic), the player acknowledges the following rules. The player is obligated by the server to adhere to the following:'],
+                    ['list', '', 'must', [
+                        'Your character forgets the conflict and the reason why you were downed.',
+                        'If someone reminds you of the incident, you may bypass the amnesia rule and use the previous scenario for lore-building, but not as a reason to retaliate.',
+                        'You are not allowed to retaliate and use the initial conflict you were in to initiate another one.',
+                        'You are not allowed to return to the area where you died for one whole hour.',
+                        'Choosing to respawn is already an acknowledgement that you will move on from the scenario. If no medical personnel are available, players may use /ooc (e.g., "wala pong doktor, rule 31 po kami respawn and act as if we were treated") to acknowledge the situation and roleplay the character as having been treated by a doctor before continuing.',
+                    ]],
+                ],
+            ],
+            [
+                'id' => 'public-conflict-town-safety', 'num' => 32, 'title' => 'Public Conflict & Town Safety',
+                'blocks' => [
+                    ['p', 'Towns and settlements are considered active and populated areas at all times. Players are expected to acknowledge the presence and activity of the town even when no other players are visibly present.'],
+                    ['p', 'Players who are not directly involved in an ongoing conflict should practice Fear of Life/Value of Life and should not unnecessarily involve themselves in active gunfights or dangerous situations.'],
+                    ['p', 'Those who choose to initiate a gunfight or violent conflict within a town must understand the additional risks that come with doing so. Violence in populated areas may reasonably attract witnesses, law enforcement, civilians, or other characters who may become involved in the resulting roleplay.'],
+                    ['p', 'The absence of nearby players does not remove the expectation of treating a town as an active environment. Players should consider the location and its role within the world when deciding to engage in violence.'],
+                    ['p', 'This same principle applies to banditry, robberies, and heists conducted within or around populated areas. Players should account for the possibility of witnesses, law enforcement, and other consequences when carrying out criminal activity in public.'],
+                    ['note', 'The number of players currently present does not determine how populated a location is for roleplay purposes.'],
+                ],
+            ],
+            [
+                'id' => 'looting-guidelines', 'num' => 33, 'title' => 'Looting Guidelines',
+                'blocks' => [
+                    ['p', 'Players who choose to loot another character are expected to approach the situation with consideration for the roleplay and effort invested by others in acquiring their possessions.'],
+                    ['p', 'Robberies should be conducted for meaningful roleplay and storytelling rather than solely for obtaining items, money, or assets. Players should avoid treating other characters as sources of loot and should prioritize creating an engaging scenario for everyone involved.'],
+                    ['note', 'Robbery should create roleplay, not simply provide rewards. Pocket-wiping is not allowed.'],
+                    ['list', 'Allowed looting threshold:', 'neutral', [
+                        'Maximum of 50% of a player\'s money in their inventory.',
+                        'Maximum of 50% of a player\'s gold bars in their inventory. (If there\'s only one, you may loot it as is.)',
+                        'One high-caliber weapon (e.g., repeaters, shotguns, rifles, etc.).',
+                        'Either one low-caliber weapon or one melee weapon (e.g., swords, spears, revolvers, bows, etc.).',
+                        'Half the amount of any consumable stack in a player\'s pocket (e.g., if a player has 10 adobo, you are only allowed to loot 5).',
+                        'Half of an item stack in a player\'s inventory (e.g., a player has 20 wood, you may get 10).',
+                    ]],
                 ],
             ],
         ],
@@ -642,7 +690,7 @@ $plrp_chapters = [
         'desc'     => 'Ownership, inheritance, and keeping the economy fair.',
         'rules'    => [
             [
-                'id' => 'asset-transfer', 'num' => 32, 'title' => 'Asset Transfer',
+                'id' => 'asset-transfer', 'num' => 34, 'title' => 'Asset Transfer',
                 'blocks' => [
                     ['p', 'Characters are expected to acquire, manage, and transfer their assets through legitimate in-character roleplay. Ownership should always reflect the actions and decisions made within Pulang Lupa rather than Out-of-Character arrangements.'],
                     ['list', 'Players may not:', 'mustnot', [
@@ -655,7 +703,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'wills', 'num' => 33, 'title' => 'In-Character Wills',
+                'id' => 'wills', 'num' => 35, 'title' => 'In-Character Wills',
                 'blocks' => [
                     ['p', 'Characters may prepare a legal Last Will and Testament through an in-character process with a licensed lawyer. Wills allow characters to pass on limited personal assets after their death while preserving fairness and progression.'],
                     ['p', 'The following limitations apply:'],
@@ -686,7 +734,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'whitelisted-jobs', 'num' => 34, 'title' => 'Whitelisted Jobs',
+                'id' => 'whitelisted-jobs', 'num' => 36, 'title' => 'Whitelisted Jobs',
                 'blocks' => [
                     ['p', 'Whitelisted jobs represent trusted professions that help maintain the continuity, realism, and stability of Pulang Lupa. Players are expected to treat these positions as long-term character commitments rather than temporary gameplay opportunities.'],
                     ['h', 'Cooldown'],
@@ -695,7 +743,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'business-limits', 'num' => 35, 'title' => 'Business Limits',
+                'id' => 'business-limits', 'num' => 37, 'title' => 'Business Limits',
                 'blocks' => [
                     ['p', 'Businesses exist to create compelling stories, not to dominate the server\'s economy or accumulate unrestricted wealth.'],
                     ['p', 'Business ownership is subject to administrative oversight and may be limited to preserve economic balance, encourage competition, and support diverse roleplay opportunities across the community.'],
@@ -721,7 +769,7 @@ $plrp_chapters = [
         'desc'     => 'Cultural respect and responsible use of audio.',
         'rules'    => [
             [
-                'id' => 'native-roleplay', 'num' => 36, 'title' => 'Native Roleplay',
+                'id' => 'native-roleplay', 'num' => 38, 'title' => 'Native Roleplay',
                 'blocks' => [
                     ['p', 'Pulang Lupa is inspired by Philippine history and culture. Players portraying native or indigenous characters are expected to do so respectfully and in a manner that supports immersive storytelling.'],
                     ['p', 'Native cultures should not be reduced to stereotypes, caricatures, or exaggerated portrayals for entertainment. Players are encouraged to research the customs, traditions, and values appropriate to their chosen background whenever possible.'],
@@ -735,7 +783,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'music-audio', 'num' => 37, 'title' => 'Music & Audio Policy',
+                'id' => 'music-audio', 'num' => 39, 'title' => 'Music & Audio Policy',
                 'blocks' => [
                     ['p', 'Music and ambient audio can greatly enhance immersion when used appropriately. Players are expected to use audio responsibly and ensure it contributes positively to the roleplay experience.'],
                     ['list', 'Players may:', 'must', [
@@ -753,7 +801,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'streamer-etiquette', 'num' => 38, 'title' => 'Streamer Etiquette',
+                'id' => 'streamer-etiquette', 'num' => 40, 'title' => 'Streamer Etiquette',
                 'blocks' => [
                     ['p', 'Pulang Lupa RP welcomes content creators and encourages players to share their experiences with the community. Streamers are expected to uphold the same standards of professionalism, immersion, and sportsmanship as every other player.'],
                     ['list', 'Players who choose to stream should:', 'must', [
@@ -781,7 +829,7 @@ $plrp_chapters = [
         'desc'     => 'How to get help, report violations, and appeal decisions.',
         'rules'    => [
             [
-                'id' => 'ticketing', 'num' => 39, 'title' => 'Ticketing',
+                'id' => 'ticketing', 'num' => 41, 'title' => 'Ticketing',
                 'blocks' => [
                     ['p', 'The ticket system exists to provide support and resolve server-related matters efficiently.'],
                     ['list', 'When creating a ticket:', 'must', [
@@ -796,7 +844,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'reporting-violations', 'num' => 40, 'title' => 'Reporting Rule Violations',
+                'id' => 'reporting-violations', 'num' => 42, 'title' => 'Reporting Rule Violations',
                 'blocks' => [
                     ['p', 'Players are encouraged to report rule violations that negatively affect the server.'],
                     ['p', 'Reports should be truthful, supported by evidence where possible, and submitted in good faith. Reports made to harass, retaliate against, or inconvenience another player are prohibited.'],
@@ -804,7 +852,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'conduct-towards-staff', 'num' => 41, 'title' => 'Conduct Towards Staff',
+                'id' => 'conduct-towards-staff', 'num' => 43, 'title' => 'Conduct Towards Staff',
                 'blocks' => [
                     ['p', 'Treat all staff members with respect and professionalism.'],
                     ['p', 'Players may ask questions, seek clarification, or respectfully disagree with a decision through the appropriate channels. Harassment, insults, threats, or attempts to pressure staff are not tolerated.'],
@@ -812,7 +860,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'appeals', 'num' => 42, 'title' => 'Appeals',
+                'id' => 'appeals', 'num' => 44, 'title' => 'Appeals',
                 'blocks' => [
                     ['p', 'If you believe an administrative decision was made in error, you may submit an appeal through the designated process.'],
                     ['p', 'Appeals should remain respectful, include any relevant information, and explain why the decision should be reviewed. Decisions made after a completed appeal are considered final unless reopened by Server Management.'],
