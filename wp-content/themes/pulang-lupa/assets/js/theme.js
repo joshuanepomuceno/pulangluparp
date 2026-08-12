@@ -174,11 +174,18 @@
       var chapters  = document.querySelectorAll('.rule-chapter');
       var anyMatch  = false;
 
-      // Sidebar: filter links, hide empty chapter groups, auto-expand while searching
+      // Sidebar: filter links against each link's own text AND its target
+      // section's full body content, so a hit inside a rule's paragraphs/
+      // lists (not just its title) still surfaces the link. Hide empty
+      // chapter groups, auto-expand while searching.
       navGroups.forEach(function (group) {
         var visible = 0;
         group.querySelectorAll('.rules-nav-link').forEach(function (link) {
-          var match = !q || link.textContent.toLowerCase().indexOf(q) !== -1;
+          var haystack = link.textContent.toLowerCase();
+          var targetId = (link.getAttribute('href') || '').replace('#', '');
+          var target   = targetId && document.getElementById(targetId);
+          if (target) haystack += ' ' + target.textContent.toLowerCase();
+          var match = !q || haystack.indexOf(q) !== -1;
           link.classList.toggle('hidden', !match);
           if (match) visible++;
         });
