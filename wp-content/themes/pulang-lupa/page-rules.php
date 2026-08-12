@@ -677,6 +677,21 @@ $plrp_chapters = [
                     ]],
                 ],
             ],
+            [
+                'id' => 'redzone-pvp-areas', 'num' => 34, 'title' => 'Redzone/PvP Areas',
+                'blocks' => [
+                    ['p', 'Certain areas within Pulang Lupa may be designated as Redzones or PvP Areas, where players may engage in combat under the specific rules established for that location or ongoing RPs within the area.'],
+                    ['note', 'Players who enter these areas are expected to understand and accept the increased risk of PvP. Entering a designated Redzone does not remove the requirement to maintain proper roleplay, follow combat rules, or respect other applicable server rules.'],
+                    ['h', 'Alamat'],
+                    ['p', 'Hunting Alamat (endangered species) within their respective areas will trigger an alert to the Tribes. This alert serves as an in-character indication that the protected species is being hunted, and may result in Native players responding to the situation through legitimate roleplay and PvP. Players engaging in activities within Alamat areas are expected to understand the risks associated with doing so and should not treat these areas as a means to bypass other server rules.'],
+                    ['list', 'Alamat Rules:', 'neutral', [
+                        'Hunting Parties are limited to a maximum of 4 people, while responding Tribes are limited to a maximum of 5.',
+                        'Common PvP rules apply — immediate action and a violent response toward the hunters is permitted without prior verbal engagement.',
+                        'If a bystander or uninvolved player is caught in the crossfire, Rule 20 (Immersion & Realism) applies; they will be considered collateral damage.',
+                        'There is no limitation on the zone, and horse-chase or foot-chase roleplay is permitted.',
+                    ]],
+                ],
+            ],
         ],
         'violations' => 'Violations of the Conflict & Combat rules may result in administrative action, including scene reversals, warnings, temporary suspensions, Character Kills where appropriate, permanent bans, or other disciplinary measures depending on the severity, intent, and repetition of the violation.',
     ],
@@ -690,7 +705,7 @@ $plrp_chapters = [
         'desc'     => 'Ownership, inheritance, and keeping the economy fair.',
         'rules'    => [
             [
-                'id' => 'asset-transfer', 'num' => 34, 'title' => 'Asset Transfer',
+                'id' => 'asset-transfer', 'num' => 35, 'title' => 'Asset Transfer',
                 'blocks' => [
                     ['p', 'Characters are expected to acquire, manage, and transfer their assets through legitimate in-character roleplay. Ownership should always reflect the actions and decisions made within Pulang Lupa rather than Out-of-Character arrangements.'],
                     ['list', 'Players may not:', 'mustnot', [
@@ -703,7 +718,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'wills', 'num' => 35, 'title' => 'In-Character Wills',
+                'id' => 'wills', 'num' => 36, 'title' => 'In-Character Wills',
                 'blocks' => [
                     ['p', 'Characters may prepare a legal Last Will and Testament through an in-character process with a licensed lawyer. Wills allow characters to pass on limited personal assets after their death while preserving fairness and progression.'],
                     ['p', 'The following limitations apply:'],
@@ -734,7 +749,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'whitelisted-jobs', 'num' => 36, 'title' => 'Whitelisted Jobs',
+                'id' => 'whitelisted-jobs', 'num' => 37, 'title' => 'Whitelisted Jobs',
                 'blocks' => [
                     ['p', 'Whitelisted jobs represent trusted professions that help maintain the continuity, realism, and stability of Pulang Lupa. Players are expected to treat these positions as long-term character commitments rather than temporary gameplay opportunities.'],
                     ['h', 'Cooldown'],
@@ -743,7 +758,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'business-limits', 'num' => 37, 'title' => 'Business Limits',
+                'id' => 'business-limits', 'num' => 38, 'title' => 'Business Limits',
                 'blocks' => [
                     ['p', 'Businesses exist to create compelling stories, not to dominate the server\'s economy or accumulate unrestricted wealth.'],
                     ['p', 'Business ownership is subject to administrative oversight and may be limited to preserve economic balance, encourage competition, and support diverse roleplay opportunities across the community.'],
@@ -769,7 +784,7 @@ $plrp_chapters = [
         'desc'     => 'Cultural respect and responsible use of audio.',
         'rules'    => [
             [
-                'id' => 'native-roleplay', 'num' => 38, 'title' => 'Native Roleplay',
+                'id' => 'native-roleplay', 'num' => 39, 'title' => 'Native Roleplay',
                 'blocks' => [
                     ['p', 'Pulang Lupa is inspired by Philippine history and culture. Players portraying native or indigenous characters are expected to do so respectfully and in a manner that supports immersive storytelling.'],
                     ['p', 'Native cultures should not be reduced to stereotypes, caricatures, or exaggerated portrayals for entertainment. Players are encouraged to research the customs, traditions, and values appropriate to their chosen background whenever possible.'],
@@ -783,7 +798,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'music-audio', 'num' => 39, 'title' => 'Music & Audio Policy',
+                'id' => 'music-audio', 'num' => 40, 'title' => 'Music & Audio Policy',
                 'blocks' => [
                     ['p', 'Music and ambient audio can greatly enhance immersion when used appropriately. Players are expected to use audio responsibly and ensure it contributes positively to the roleplay experience.'],
                     ['list', 'Players may:', 'must', [
@@ -801,7 +816,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'streamer-etiquette', 'num' => 40, 'title' => 'Streamer Etiquette',
+                'id' => 'streamer-etiquette', 'num' => 41, 'title' => 'Streamer Etiquette',
                 'blocks' => [
                     ['p', 'Pulang Lupa RP welcomes content creators and encourages players to share their experiences with the community. Streamers are expected to uphold the same standards of professionalism, immersion, and sportsmanship as every other player.'],
                     ['list', 'Players who choose to stream should:', 'must', [
@@ -829,7 +844,7 @@ $plrp_chapters = [
         'desc'     => 'How to get help, report violations, and appeal decisions.',
         'rules'    => [
             [
-                'id' => 'ticketing', 'num' => 41, 'title' => 'Ticketing',
+                'id' => 'ticketing', 'num' => 42, 'title' => 'Ticketing',
                 'blocks' => [
                     ['p', 'The ticket system exists to provide support and resolve server-related matters efficiently.'],
                     ['list', 'When creating a ticket:', 'must', [
@@ -844,7 +859,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'reporting-violations', 'num' => 42, 'title' => 'Reporting Rule Violations',
+                'id' => 'reporting-violations', 'num' => 43, 'title' => 'Reporting Rule Violations',
                 'blocks' => [
                     ['p', 'Players are encouraged to report rule violations that negatively affect the server.'],
                     ['p', 'Reports should be truthful, supported by evidence where possible, and submitted in good faith. Reports made to harass, retaliate against, or inconvenience another player are prohibited.'],
@@ -852,7 +867,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'conduct-towards-staff', 'num' => 43, 'title' => 'Conduct Towards Staff',
+                'id' => 'conduct-towards-staff', 'num' => 44, 'title' => 'Conduct Towards Staff',
                 'blocks' => [
                     ['p', 'Treat all staff members with respect and professionalism.'],
                     ['p', 'Players may ask questions, seek clarification, or respectfully disagree with a decision through the appropriate channels. Harassment, insults, threats, or attempts to pressure staff are not tolerated.'],
@@ -860,7 +875,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'appeals', 'num' => 44, 'title' => 'Appeals',
+                'id' => 'appeals', 'num' => 45, 'title' => 'Appeals',
                 'blocks' => [
                     ['p', 'If you believe an administrative decision was made in error, you may submit an appeal through the designated process.'],
                     ['p', 'Appeals should remain respectful, include any relevant information, and explain why the decision should be reviewed. Decisions made after a completed appeal are considered final unless reopened by Server Management.'],
