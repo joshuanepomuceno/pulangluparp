@@ -362,7 +362,7 @@ $fx_chapters = [
                     ]],
                     ['note', "Getting killed within the vicinity of an ongoing war will be counted as collateral damage and will not be counted by Management as RDM unless deemed necessary."],
                     ['h', 'Organization Membership'],
-                    ['note', "Management allows a maximum of 40 members within official organizations. If you are an associate or confidante — someone who does not participate in wars but actively shares information with faction members — you will be counted as a member. Share information at your own risk."],
+                    ['note', "If you are an associate or confidante — someone who does not participate in wars but actively and continuously shares information with faction members — you will be counted as a member. (Exceptions are one-time informants, information gathered from torture, etc.) Share information at your own risk."],
                     ['p', "Organizations are expected to maintain an active roster. Inactive members may be removed by the organization itself."],
                     ['h', 'Safehouses & Properties'],
                     ['p', "Organizations may only utilize properties, camps, or hideouts that comply with the Server Handbook and applicable housing or property policies."],
@@ -457,6 +457,12 @@ function plrp_faction_block( $block ) {
             break;
         case 'h':
             echo '<h4 class="rule-subhead">' . esc_html( $block[1] ) . '</h4>';
+            break;
+        case 'sub':
+            echo '<div class="rule-subcard">';
+            echo '<span class="rule-subcard-title">' . esc_html( $block[1] ) . '</span>';
+            echo '<p>' . esc_html( $block[2] ) . '</p>';
+            echo '</div>';
             break;
         case 'note':
             echo '<div class="rule-note"><span class="rule-note-icon" aria-hidden="true">!</span><p>' . esc_html( $block[1] ) . '</p></div>';
