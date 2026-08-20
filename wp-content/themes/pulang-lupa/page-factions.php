@@ -56,7 +56,9 @@ $fx_chapters = [
                 'id' => 'official-registration', 'num' => 2, 'title' => 'Official Faction Registration',
                 'blocks' => [
                     ['p', "Any group wishing to become an official organization within Pulang Lupa must first submit a Faction Registration Ticket for review by Management."],
-                    ['p', "Groups that have not been officially approved may still roleplay together as informal associations. However, they will not receive official recognition, administrative support regarding their group, or access to faction-specific systems and benefits."],
+                    ['note', "Government systems and Law Enforcement are counted as whitelisted factions within the server. The server will take care of their applications for them, as they are used to establish identity. The governing Server Rules are superior to the Faction Rules, so the membership limit for these whitelisted factions will be honored."],
+                    ['note', "You are not allowed to participate in faction-related activities — such as heists, town visitations, demonstrations of numbers, or RPing with other citizens — if you are not officially recognized as a faction."],
+                    ['p', "Factions are not allowed to have sub-factions. However, a player who is part of a larger organization and wishes to apply for a smaller, differently represented faction under a different name may apply for an additional faction and declare their affiliations accordingly."],
                     ['list', "Management reserves the right to approve, deny, or request changes to any proposed organization to ensure it:", 'neutral', [
                         "Fits the setting and time period.",
                         "Encourages healthy and immersive roleplay.",
