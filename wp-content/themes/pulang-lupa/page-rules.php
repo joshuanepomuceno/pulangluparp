@@ -869,6 +869,11 @@ $plrp_chapters = [
                         'If a state\'s penal code would result in a sentence exceeding this limit, the sentence must still be capped at 6 hours OOC time. Imposing or enforcing a sentence beyond this maximum will be considered Powergaming.',
                         'The maximum amount imposed for fines is ₱1,000, regardless of the penal code of the state.',
                     ]],
+                    ['h', 'Doctor Protection and Duty Limitations'],
+                    ['p', 'Doctors are protected from banditry and other forms of victimization while on duty and wearing their designated medical uniform. Players may not rob, abduct, threaten, or otherwise initiate banditry against a doctor who is actively performing their medical duties in uniform.'],
+                    ['p', 'When off-duty or not wearing their designated uniform, doctors are considered regular civilians and may be subjected to banditry and other forms of victimization in accordance with server rules.'],
+                    ['note', 'Doctors may not immediately go on duty, equip their uniform, or otherwise use their medical status to evade or interrupt an ongoing RP situation that began while they were off-duty or out of uniform. Any RP or consequences arising from actions committed while off-duty remain valid even if the doctor subsequently goes on duty.'],
+                    ['note', 'Doctors are strictly prohibited from participating in illegal activities while on duty or while representing their medical role. Medical privileges, equipment, authority, or other doctor-specific functions may only be used within the scope of legitimate medical duties, and must not be used to facilitate, conceal, or gain an advantage in unrelated or illegal activities.'],
                 ],
             ],
             [
