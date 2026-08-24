@@ -734,6 +734,14 @@ $plrp_chapters = [
                         'Value of Life/Value of Fear rules apply accordingly — roleplay it out, and do not treat the situation recklessly just because you feel you can handle yourself.',
                         'Local Law Enforcement in that town are expected to roleplay accordingly and may impose their respective penal codes. However, consequences may vary, and compliance is not the utmost priority when a significant number of faction/group members are present — be smart.',
                     ]],
+                    ['h', 'Banditry & Civilian Robbery'],
+                    ['note', 'Banditry may only be conducted between 6:00 P.M. and 6:00 A.M. in-game time.'],
+                    ['p', 'Players participating in organized banditry must be clearly identifiable as a bandit group through their designated attire. Members are expected to wear the same clothes, with the exception of certain female clothing for female characters.'],
+                    ['list', 'Requirements and limits:', 'neutral', [
+                        'You are required to have posas/handcuffs if you are going to perform civilian robberies.',
+                        'Forcing someone to drop their items on the ground will be counted as Powergaming.',
+                        'A maximum of 12 players are allowed to perform Civilian Robbery.',
+                    ]],
                 ],
             ],
             [
