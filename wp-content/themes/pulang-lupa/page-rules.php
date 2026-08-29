@@ -873,9 +873,10 @@ $plrp_chapters = [
                     ['note', 'These actions count as Powergaming and will be dealt with under the same punishment as Rule 18.'],
                     ['p', 'However, for extensive immersion, Bad Cop RPs such as corruption and bribery are allowed, as long as they don\'t involve whitelist-restricted functions.'],
                     ['list', 'Sentencing limits:', 'neutral', [
+                        'A sentence may impose either jail time or community service, but never both.',
                         'The maximum jail sentence that may be imposed is 6 hours of OOC time. Players may reduce their sentence through applicable RP or in-game mechanics.',
-                        'The maximum amount imposed for fines is ₱1,000, regardless of the penal code of the state.',
                         'The maximum community service that may be imposed is 100.',
+                        'The maximum amount imposed for fines is ₱1,000, regardless of the penal code of the state.',
                         'If a state\'s penal code would result in a sentence exceeding any of the limits above, the sentence must still be capped at those limits. Imposing or enforcing a sentence beyond these maximums will be considered Powergaming.',
                     ]],
                     ['h', 'Doctor Protection and Duty Limitations'],
