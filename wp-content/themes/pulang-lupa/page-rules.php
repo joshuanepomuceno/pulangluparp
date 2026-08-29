@@ -874,8 +874,9 @@ $plrp_chapters = [
                     ['p', 'However, for extensive immersion, Bad Cop RPs such as corruption and bribery are allowed, as long as they don\'t involve whitelist-restricted functions.'],
                     ['list', 'Sentencing limits:', 'neutral', [
                         'The maximum jail sentence that may be imposed is 6 hours of OOC time. Players may reduce their sentence through applicable RP or in-game mechanics.',
-                        'If a state\'s penal code would result in a sentence exceeding this limit, the sentence must still be capped at 6 hours OOC time. Imposing or enforcing a sentence beyond this maximum will be considered Powergaming.',
                         'The maximum amount imposed for fines is ₱1,000, regardless of the penal code of the state.',
+                        'The maximum community service that may be imposed is 100.',
+                        'If a state\'s penal code would result in a sentence exceeding any of the limits above, the sentence must still be capped at those limits. Imposing or enforcing a sentence beyond these maximums will be considered Powergaming.',
                     ]],
                     ['h', 'Doctor Protection and Duty Limitations'],
                     ['p', 'Doctors are protected from banditry and other forms of victimization while on duty and wearing their designated medical uniform. Players may not rob, abduct, threaten, or otherwise initiate banditry against a doctor who is actively performing their medical duties in uniform.'],
