@@ -742,6 +742,14 @@ $plrp_chapters = [
                         'Forcing someone to drop their items on the ground will be counted as Powergaming.',
                         'A maximum of 12 players are allowed to perform Civilian Robbery.',
                     ]],
+                    ['h', 'Hostage Situation Rules'],
+                    ['p', 'Hostage situations must be properly initiated and developed through In-Character roleplay. Players are expected to follow the guidelines below:'],
+                    ['sub', 'Proper RP Required', 'A legitimate RP interaction must be established before taking another player hostage.'],
+                    ['sub', 'Maximum of 3 Hostages', 'A hostage situation may involve a maximum of 3 legitimate player hostages.'],
+                    ['sub', 'No Spawn Camping', 'Players may not camp known spawn points or wait for players to spawn specifically to initiate a hostage situation.'],
+                    ['sub', 'Demand-to-Hostage Ratio', 'Demands should reasonably correspond to the number of hostages. For example, 1 hostage = 1 demand, with a maximum of 3 demands for 3 hostages.'],
+                    ['sub', 'Reasonable & RP-able Demands', 'Demands must be reasonable, achievable, and provide Law Enforcement with a genuine opportunity to comply if they choose to do so. Unreasonable or absurd demands are not permitted, such as demanding that Law Enforcement does not respond, or requesting an excessive or unrealistic amount of money.'],
+                    ['sub', 'Legitimate Hostages Only', 'During scripted robberies, NPCs or friends who are knowingly cooperating with the robbery may not be used as hostages. Hostages must be legitimate, uninvolved parties who were not previously part of the robbery or its planning.'],
                 ],
             ],
             [
@@ -788,6 +796,40 @@ $plrp_chapters = [
                     ['sub', 'Rule Compliance', 'The Alamat exception exists specifically to facilitate RP surrounding the protection and hunting of endangered species. It must not be used as a means to circumvent other server rules outside of the specific exceptions stated above.'],
                 ],
             ],
+            [
+                'id' => 'heists-robberies', 'num' => 35, 'title' => 'Heists and Robberies',
+                'blocks' => [
+                    ['h', 'Store Robbery'],
+                    ['p', 'Store robberies must follow the requirements below to ensure that the scenario provides proper RP and a fair opportunity for Law Enforcement to respond.'],
+                    ['note', 'A minimum of 3 on-duty Militia/Lawmen must be available before a store robbery may be initiated.'],
+                    ['list', 'Responding Lawmen must outnumber the robbers by one:', 'neutral', [
+                        '2 robbers = 3 Lawmen.',
+                        '3 robbers = 4 Lawmen.',
+                        '4 robbers = 5 Lawmen.',
+                        'In the case of a hostage situation, the Lawmen are allowed to go full-force as a response. Further hostage rules are provided under the Hostage Situation Rules in Rule 32.',
+                    ]],
+                    ['list', 'Requirements and limits:', 'mustnot', [
+                        'A maximum of 4 robbers may participate.',
+                        'Only melee weapons, bows, and revolvers may be used.',
+                        'Rob and Go is not permitted.',
+                        'Looted items may not be hidden or intentionally concealed from the responding Lawmen.',
+                        'Robbers must remain inside the store until the PvP signal has been triggered.',
+                        'The PvP may be triggered by breaking glass, firing a weapon, or leaving the store.',
+                        'Robbers may not shoot Law Enforcement solely to trigger the PvP.',
+                        'Ambush tactics are not permitted.',
+                        'Verbal interaction is required before the situation escalates into PvP.',
+                    ]],
+                    ['h', 'Grave Robbery'],
+                    ['p', 'Grave robberies must be conducted discreetly and with proper RP throughout the scenario.'],
+                    ['list', 'Requirements and limits:', 'neutral', [
+                        'A minimum of 2 on-duty Militia/Lawmen must be available before a grave robbery may be initiated.',
+                        'A maximum of 4 players may participate in a single grave robbery.',
+                        'Only melee weapons, bows, and revolvers may be used.',
+                        'Proper In-Character RP must be maintained throughout the robbery.',
+                        'Grave robberies must be conducted quietly and discreetly, with players avoiding unnecessary attention or escalation.',
+                    ]],
+                ],
+            ],
         ],
         'violations' => 'Violations of the Conflict & Combat rules may result in administrative action, including scene reversals, warnings, temporary suspensions, Character Kills where appropriate, permanent bans, or other disciplinary measures depending on the severity, intent, and repetition of the violation.',
     ],
@@ -801,7 +843,7 @@ $plrp_chapters = [
         'desc'     => 'Ownership, inheritance, and keeping the economy fair.',
         'rules'    => [
             [
-                'id' => 'asset-transfer', 'num' => 35, 'title' => 'Asset Transfer',
+                'id' => 'asset-transfer', 'num' => 36, 'title' => 'Asset Transfer',
                 'blocks' => [
                     ['p', 'Characters are expected to acquire, manage, and transfer their assets through legitimate in-character roleplay. Ownership should always reflect the actions and decisions made within Pulang Lupa rather than Out-of-Character arrangements.'],
                     ['list', 'Players may not:', 'mustnot', [
@@ -814,7 +856,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'wills', 'num' => 36, 'title' => 'In-Character Wills',
+                'id' => 'wills', 'num' => 37, 'title' => 'In-Character Wills',
                 'blocks' => [
                     ['p', 'Characters may prepare a legal Last Will and Testament through an in-character process with a licensed lawyer. Wills allow characters to pass on limited personal assets after their death while preserving fairness and progression.'],
                     ['p', 'The following limitations apply:'],
@@ -845,7 +887,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'whitelisted-jobs', 'num' => 37, 'title' => 'Whitelisted Jobs',
+                'id' => 'whitelisted-jobs', 'num' => 38, 'title' => 'Whitelisted Jobs',
                 'blocks' => [
                     ['p', 'Whitelisted jobs represent trusted professions that help maintain the continuity, realism, and stability of Pulang Lupa. Players are expected to treat these positions as long-term character commitments rather than temporary gameplay opportunities.'],
                     ['h', 'Cooldown'],
@@ -887,7 +929,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'business-limits', 'num' => 38, 'title' => 'Business Limits',
+                'id' => 'business-limits', 'num' => 39, 'title' => 'Business Limits',
                 'blocks' => [
                     ['p', 'Businesses exist to create compelling stories, not to dominate the server\'s economy or accumulate unrestricted wealth.'],
                     ['p', 'Business ownership is subject to administrative oversight and may be limited to preserve economic balance, encourage competition, and support diverse roleplay opportunities across the community.'],
@@ -912,7 +954,7 @@ $plrp_chapters = [
         'desc'     => 'Cultural respect and responsible use of audio.',
         'rules'    => [
             [
-                'id' => 'native-roleplay', 'num' => 39, 'title' => 'Native Roleplay',
+                'id' => 'native-roleplay', 'num' => 40, 'title' => 'Native Roleplay',
                 'blocks' => [
                     ['p', 'Pulang Lupa is inspired by Philippine history and culture. Players portraying native or indigenous characters are expected to do so respectfully and in a manner that supports immersive storytelling.'],
                     ['p', 'Native cultures should not be reduced to stereotypes, caricatures, or exaggerated portrayals for entertainment. Players are encouraged to research the customs, traditions, and values appropriate to their chosen background whenever possible.'],
@@ -926,7 +968,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'music-audio', 'num' => 40, 'title' => 'Music & Audio Policy',
+                'id' => 'music-audio', 'num' => 41, 'title' => 'Music & Audio Policy',
                 'blocks' => [
                     ['p', 'Music and ambient audio can greatly enhance immersion when used appropriately. Players are expected to use audio responsibly and ensure it contributes positively to the roleplay experience.'],
                     ['list', 'Players may:', 'must', [
@@ -944,7 +986,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'streamer-etiquette', 'num' => 41, 'title' => 'Streamer Etiquette',
+                'id' => 'streamer-etiquette', 'num' => 42, 'title' => 'Streamer Etiquette',
                 'blocks' => [
                     ['p', 'Pulang Lupa RP welcomes content creators and encourages players to share their experiences with the community. Streamers are expected to uphold the same standards of professionalism, immersion, and sportsmanship as every other player.'],
                     ['list', 'Players who choose to stream should:', 'must', [
@@ -972,7 +1014,7 @@ $plrp_chapters = [
         'desc'     => 'How to get help, report violations, and appeal decisions.',
         'rules'    => [
             [
-                'id' => 'ticketing', 'num' => 42, 'title' => 'Ticketing',
+                'id' => 'ticketing', 'num' => 43, 'title' => 'Ticketing',
                 'blocks' => [
                     ['p', 'The ticket system exists to provide support and resolve server-related matters efficiently.'],
                     ['list', 'When creating a ticket:', 'must', [
@@ -1011,7 +1053,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'reporting-violations', 'num' => 43, 'title' => 'Reporting Rule Violations',
+                'id' => 'reporting-violations', 'num' => 44, 'title' => 'Reporting Rule Violations',
                 'blocks' => [
                     ['p', 'Players are encouraged to report rule violations that negatively affect the server.'],
                     ['p', 'Reports should be truthful, supported by evidence where possible, and submitted in good faith. Reports made to harass, retaliate in bad faith, or inconvenience another player are prohibited.'],
@@ -1019,7 +1061,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'conduct-towards-staff', 'num' => 44, 'title' => 'Conduct Towards Staff',
+                'id' => 'conduct-towards-staff', 'num' => 45, 'title' => 'Conduct Towards Staff',
                 'blocks' => [
                     ['p', 'Treat all staff members with respect and professionalism.'],
                     ['p', 'Players may ask questions, seek clarification, or respectfully disagree with a decision through the appropriate channels. Harassment, insults, threats, or attempts to pressure staff are not tolerated.'],
@@ -1027,7 +1069,7 @@ $plrp_chapters = [
                 ],
             ],
             [
-                'id' => 'appeals', 'num' => 45, 'title' => 'Appeals',
+                'id' => 'appeals', 'num' => 46, 'title' => 'Appeals',
                 'blocks' => [
                     ['p', 'If you believe an administrative decision was made in error, you may submit an appeal through the designated process.'],
                     ['p', 'Appeals should remain respectful, include any relevant information, and explain why the decision should be reviewed. Decisions made after a completed appeal are considered final unless reopened by Server Management.'],
